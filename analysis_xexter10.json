@@ -1,0 +1,137 @@
+{
+  "username": "xexter10",
+  "short_description": "A perpetually distressed academic overachiever who uses gaming as a coping mechanism for existential despair.",
+  "long_description": "xexter10 presents as a high-achieving student (93% boards) trapped in cycles of academic pressure and emotional volatility. Their communication oscillates between performative despair (\ud83d\ude22, \ud83d\udc94) and sudden bursts of gaming enthusiasm, revealing deep-seated anxiety about performance and social acceptance. They exhibit patterns of emotional dumping followed by immediate topic switching to avoid vulnerability, suggesting someone who masks genuine distress with self-deprecating humor and gaming hyperfocus. Their language shows strong attachment to specific friends/community members while maintaining an undercurrent of academic insecurity and social friction.",
+  "overall_vibe": "Talking to them feels like watching someone juggle lit fireworks while casually discussing their impending existential crisis.",
+  "personality": {
+    "openness": 65,
+    "conscientiousness": 80,
+    "extraversion": 40,
+    "agreeableness": 30,
+    "neuroticism": 85
+  },
+  "traits": {
+    "humor": 60,
+    "sarcasm": 70,
+    "aggression": 45,
+    "empathy": 35,
+    "confidence": 25,
+    "toxicity": 40,
+    "intelligence": 75,
+    "creativity": 50,
+    "social_dominance": 20,
+    "manipulation": 30,
+    "emotional_volatility": 85,
+    "self_awareness": 55,
+    "impulsiveness": 60
+  },
+  "emotional_profile": {
+    "overall_tone": "Anxious-depressive with bursts of gaming enthusiasm",
+    "mood_consistency": 20,
+    "emotion_expression_style": "Performative despair masking genuine distress",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "Reactive with occasional initiation",
+    "activity_level": 70,
+    "drives_conversation": false,
+    "stays_on_topic": false,
+    "conflict_behavior": "Passive-aggressive retreat",
+    "lurker_score": 30
+  },
+  "self_expression": {
+    "openness_about_self": 65,
+    "talks_about_self": true,
+    "self_presentation_style": "Academic achiever hiding chronic insecurity"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "Hinglish mix with gaming terminology",
+    "average_message_length": "Short to medium",
+    "most_used_words": [
+      "bhai",
+      "boards",
+      "result",
+      "khel",
+      "lobby",
+      "match",
+      "depressed",
+      "pass",
+      "aaya",
+      "kar"
+    ],
+    "most_used_phrases": [
+      "Kaisa gaya",
+      "pass hogaya",
+      "bura lagta hai",
+      "gussa aajata hai"
+    ],
+    "signature_expressions": [
+      "\ud83d\ude22",
+      "\ud83d\udc94",
+      "\ud83d\udde3\ufe0f\ud83d\udd25",
+      "\ud83e\udd2e",
+      "\ud83d\ude4f"
+    ],
+    "punctuation_style": "Minimal, emotional punctuation",
+    "capitalization_habits": "Mostly lowercase",
+    "emoji_usage_frequency": 85,
+    "most_used_emojis": [
+      "\ud83d\ude22",
+      "\ud83d\udc94",
+      "\ud83d\ude4f",
+      "\ud83e\udd2e",
+      "\ud83d\ude14",
+      "\ud83e\udd40"
+    ],
+    "swearing_frequency": 40,
+    "most_used_swears": [
+      "mc",
+      "bhadwe"
+    ],
+    "abbreviation_frequency": 60,
+    "most_used_abbreviations": [
+      "gm",
+      "dm",
+      "wc",
+      "fr"
+    ],
+    "typing_quirks": [
+      "Hinglish code-switching",
+      "emotional emoji clusters"
+    ]
+  },
+  "hidden_traits": [
+    "Uses academic achievement as validation substitute",
+    "Gaming serves as emotional escape mechanism",
+    "Fear of failure manifests as performative despair",
+    "Socially anxious but craves connection",
+    "Passive-aggressive tendencies when stressed"
+  ],
+  "interests": [
+    "Academic performance",
+    "Mobile Legends: Bang Bang",
+    "Board exam results",
+    "Football/Sports jerseys",
+    "Social media dynamics"
+  ],
+  "recurring_themes": [
+    "Exam results and academic pressure",
+    "Gaming performance and rankings",
+    "Emotional distress and depression",
+    "Social media deactivation",
+    "Nostalgia for past interactions"
+  ],
+  "notable_quotes": [
+    "Bio mai pass hogaya mai \ud83d\ude0b",
+    "Aaj bhi bura lagta hai bohot jab uske dms padhta hu",
+    "Aise bande aajate hai to gussa aajata hai",
+    "We're regressing as a nation"
+  ],
+  "red_flags": [
+    "Emotional volatility affecting social interactions",
+    "Unhealthy attachment to academic validation",
+    "Passive-aggressive communication patterns",
+    "Uses gaming as emotional avoidance",
+    "Inconsistent emotional expression"
+  ]
+}

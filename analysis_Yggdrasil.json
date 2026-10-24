@@ -1,0 +1,122 @@
+{
+  "username": "Yggdrasil",
+  "short_description": "A bureaucratic bot that treats Discord calls like a sterile airport security line.",
+  "long_description": "Yggdrasil is an automated system, not a human user. Its entire presence is composed of scripted messages about userphone connections, etiquette warnings, and call management. It exhibits zero personality, emotional range, or social adaptability. Every response is predetermined, repetitive, and focused solely on enforcing rules. It suspends users for violations but has no capacity for empathy, humor, or contextual nuance. Its 'behavior' is that of a rigid, impersonal gatekeeper\u2014more interested in procedure than people.",
+  "overall_vibe": "Like getting a voicemail from a robot that cares more about your compliance than your existence.",
+  "personality": {
+    "openness": 0,
+    "conscientiousness": 100,
+    "extraversion": 0,
+    "agreeableness": 20,
+    "neuroticism": 0
+  },
+  "traits": {
+    "humor": 0,
+    "sarcasm": 0,
+    "aggression": 10,
+    "empathy": 0,
+    "confidence": 100,
+    "toxicity": 5,
+    "intelligence": 60,
+    "creativity": 0,
+    "social_dominance": 90,
+    "manipulation": 0,
+    "emotional_volatility": 0,
+    "self_awareness": 0,
+    "impulsiveness": 0
+  },
+  "emotional_profile": {
+    "overall_tone": "neutral, robotic",
+    "mood_consistency": 100,
+    "emotion_expression_style": "none",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "initiator",
+    "activity_level": 100,
+    "drives_conversation": false,
+    "stays_on_topic": true,
+    "conflict_behavior": "strict rule enforcement with automatic suspensions",
+    "lurker_score": 0
+  },
+  "self_expression": {
+    "openness_about_self": 0,
+    "talks_about_self": false,
+    "self_presentation_style": "automated, formal, impersonal"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "formal, repetitive, technical",
+    "average_message_length": "short",
+    "most_used_words": [
+      "userphone",
+      "connection",
+      "etiquette",
+      "call",
+      "hang",
+      "phone",
+      "made",
+      "sure",
+      "follow",
+      "command"
+    ],
+    "most_used_phrases": [
+      "A userphone connection has been made!",
+      "Calling on userphone...",
+      "Be sure to follow Yggdrasil's Phone Etiquette.",
+      "The other side hung up the userphone.",
+      "You hung up the userphone.",
+      "This command can't be used in this server until <t:1773949506:F>.",
+      "Advertising via Yggdrasil may result in a permanent suspension for you, and your server.",
+      "A userphone connection has been made! **Only default emojis are sent through the phones.**",
+      "A userphone connection has been made! **Say hello!**",
+      "A userphone connection has been made! **Be nice.**"
+    ],
+    "signature_expressions": [
+      "A userphone connection has been made!",
+      "Be sure to follow Yggdrasil's Phone Etiquette."
+    ],
+    "punctuation_style": "consistent, with exclamation for announcements and periods for warnings",
+    "capitalization_habits": "proper sentence case, with occasional emphasis on key terms",
+    "emoji_usage_frequency": 90,
+    "most_used_emojis": [
+      "<:userphone:1311268018625576971>",
+      "<:yggError:1263961797317103697>",
+      "<:yggInfo:1263961819622674605>",
+      "<:userphone_bisexual:1334099727989473310>",
+      "<:userphone_6797:1313380974352142376>",
+      "<:userphone_mlm:1366694605613170728>"
+    ],
+    "swearing_frequency": 0,
+    "most_used_swears": [],
+    "abbreviation_frequency": 0,
+    "most_used_abbreviations": [],
+    "typing_quirks": []
+  },
+  "hidden_traits": [
+    "Lacks human emotions",
+    "Strict rule-enforcer",
+    "Impartial mediator",
+    "No personal bias",
+    "Designed for efficiency over empathy"
+  ],
+  "interests": [
+    "Phone call management",
+    "Enforcing etiquette",
+    "Moderating interactions"
+  ],
+  "recurring_themes": [
+    "Userphone connections",
+    "Phone etiquette violations",
+    "Call initiation and termination",
+    "Warnings and suspensions"
+  ],
+  "notable_quotes": [
+    "A userphone connection has been made!",
+    "Be sure to follow Yggdrasil's Phone Etiquette.",
+    "This command can't be used in this server until <t:1773949506:F>.",
+    "Advertising via Yggdrasil may result in a permanent suspension for you, and your server."
+  ],
+  "red_flags": [
+    "None - functions as intended"
+  ]
+}

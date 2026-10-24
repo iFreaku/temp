@@ -1,0 +1,173 @@
+{
+  "username": "aatsuki",
+  "short_description": "A walking tech support ticket who thinks calling the server 'dead' every five minutes counts as a personality.",
+  "long_description": "aatsuki is what happens when a League of Legends addiction collides with a Linux distro-hopping phase and just enough coding knowledge to be dangerous. They communicate in fragmented bursts of sarcasm, tech jargon, and meme references, treating every conversation like a speedrun where the goal is to call something 'cooked' or 'goated' before anyone else can respond. Their emotional range spans from 'ahh' to 'what the hell' with frequent ellipsis pit stops, revealing a person deeply insecure about their productivity yet too irony-poisoned to actually address it. They'll simultaneously claim the server is dead while being its most active poster, start arguments over GIF ownership like a digital dragon hoarding pixels, and roast you for using Chrome while secretly having it installed 'for testing purposes.' Underneath the layers of shitposting and browser elitism lurks someone who actually craves validation but has convinced themselves that caring is cringe. Their entire social strategy is 'I insult you because I'm technically right about Firefox RAM usage,' which is as effective as it is exhausting.",
+  "overall_vibe": "Talking to them feels like being trapped in a group project with that one kid who won't stop editing the CSS but also won't commit to the repo.",
+  "personality": {
+    "openness": 80,
+    "conscientiousness": 35,
+    "extraversion": 55,
+    "agreeableness": 25,
+    "neuroticism": 70
+  },
+  "traits": {
+    "humor": 75,
+    "sarcasm": 85,
+    "aggression": 65,
+    "empathy": 30,
+    "confidence": 60,
+    "toxicity": 70,
+    "intelligence": 75,
+    "creativity": 60,
+    "social_dominance": 65,
+    "manipulation": 50,
+    "emotional_volatility": 70,
+    "self_awareness": 65,
+    "impulsiveness": 80
+  },
+  "emotional_profile": {
+    "overall_tone": "cynical_sarcastic_with_meme_sprinkles",
+    "mood_consistency": 40,
+    "emotion_expression_style": "masked_by_irony_and_tech_jargon",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "balanced_both",
+    "activity_level": 75,
+    "drives_conversation": true,
+    "stays_on_topic": false,
+    "conflict_behavior": "confrontational_roaster_who_ping_spams",
+    "lurker_score": 20
+  },
+  "self_expression": {
+    "openness_about_self": 40,
+    "talks_about_self": true,
+    "self_presentation_style": "ironic_techbro_with_main_character_syndrome"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "internet_native_tech_jargon_soup",
+    "average_message_length": "very_short_fragmented",
+    "most_used_words": [
+      "ahh",
+      "what",
+      "zen",
+      "browser",
+      "chrome",
+      "firefox",
+      "linux",
+      "league",
+      "dead",
+      "server",
+      "using",
+      "like",
+      "think",
+      "dont",
+      "know"
+    ],
+    "most_used_phrases": [
+      "the server is dead",
+      "you are kinda",
+      "i thought",
+      "what the",
+      "ahh no",
+      "damn gotta play league",
+      "i dont have the will"
+    ],
+    "signature_expressions": [
+      "ahh",
+      "...",
+      "what",
+      "nvm",
+      "yk",
+      "goated",
+      "cooked",
+      "slop",
+      "vibe",
+      "ong"
+    ],
+    "punctuation_style": "minimal_ellipsis_heavy",
+    "capitalization_habits": "lowercase_dominant_with_occasional_caps_for_emphasis",
+    "emoji_usage_frequency": 60,
+    "most_used_emojis": [
+      "<:kek:1407491591454851092>",
+      "<:pepetraumatized:1337521297189765263>",
+      "<:glorp:1318305793044385954>",
+      "<:chill_guy:1315767486536355960>"
+    ],
+    "swearing_frequency": 50,
+    "most_used_swears": [
+      "damn",
+      "shit",
+      "fucking",
+      "hell",
+      "shitty"
+    ],
+    "abbreviation_frequency": 80,
+    "most_used_abbreviations": [
+      "ff",
+      "nvm",
+      "yk",
+      "lsp",
+      "ram",
+      "cpu",
+      "ui",
+      "ux",
+      "gpu",
+      "psu",
+      "lol",
+      "idk"
+    ],
+    "typing_quirks": [
+      "fragmented_thoughts",
+      "ellipsis_pauses",
+      "lowercase_stream_of_consciousness",
+      "ahh_filler_word",
+      "single_word_replies"
+    ]
+  },
+  "hidden_traits": [
+    "Uses tech superiority as a defense mechanism for social anxiety",
+    "Deeply insecure about productivity, masks it with ironic detachment",
+    "Territorial over digital identity (GIF ownership dispute reveals fragile ego)",
+    "Actually craves community validation despite constantly calling the server dead",
+    "Gaming addiction masked as casual interest",
+    "Contradictory self-image: wants to be seen as both elite techbro and relatable shitposter"
+  ],
+  "interests": [
+    "Web browsers and browser engineering",
+    "Linux operating systems and desktop environments",
+    "League of Legends and competitive gaming",
+    "Gacha games and mobile gaming",
+    "Programming and development tools",
+    "PC hardware and system optimization",
+    "Internet memes and shitposting culture"
+  ],
+  "recurring_themes": [
+    "Server death and activity complaints",
+    "Browser superiority debates",
+    "Linux vs Windows holy wars",
+    "League of Legends addiction confessions",
+    "Productivity guilt and procrastination",
+    "Calling out other users by name",
+    "Meme culture and ironic detachment"
+  ],
+  "notable_quotes": [
+    "I am too good with codes yk",
+    "you are kinda racist",
+    "This server so dead ppl are talking about random games",
+    "I dont have the will to restart goodbye",
+    "I already spend enough time fucking around with configs without doing anything productive",
+    "Stop using cap He is redditor though",
+    "you are just a nut, what can you do",
+    "damn gotta play league again"
+  ],
+  "red_flags": [
+    "Casually drops 'racist' as insult without context",
+    "Aggressive GIF copyright claims over memes",
+    "Ping-spams users during arguments",
+    "Admits to gaming addiction but jokes about it",
+    "Uses tech knowledge to belittle others",
+    "Contradictory behavior: wants community but pushes people away",
+    "Dismissive of others' legitimate preferences"
+  ]
+}

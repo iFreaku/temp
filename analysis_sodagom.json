@@ -1,0 +1,145 @@
+{
+  "username": "sodagom",
+  "short_description": "A sleep-deprived Korean chat creator who refers to themselves as 'Tuna' and is constantly on the verge of a mental breakdown.",
+  "long_description": "sodagom is a dedicated but overwhelmed chat creator who operates primarily in Korean but engages with an international audience through translation tools. They exhibit high neuroticism and low self-confidence, constantly apologizing for their English skills while demonstrating deep technical knowledge of AI models and chat systems. Their communication is characterized by third-person self-reference ('Tuna'), frequent exhaustion mentions, and a mix of technical explanations with personal vulnerabilities. They show patterns of workaholism, sleep deprivation, and using Discord as both a work platform and emotional support space.",
+  "overall_vibe": "Talking to a exhausted goldfish that happens to be a tech genius.",
+  "personality": {
+    "openness": 85,
+    "conscientiousness": 70,
+    "extraversion": 40,
+    "agreeableness": 75,
+    "neuroticism": 90
+  },
+  "traits": {
+    "humor": 60,
+    "sarcasm": 30,
+    "aggression": 15,
+    "empathy": 75,
+    "confidence": 35,
+    "toxicity": 5,
+    "intelligence": 85,
+    "creativity": 90,
+    "social_dominance": 20,
+    "manipulation": 10,
+    "emotional_volatility": 80,
+    "self_awareness": 65,
+    "impulsiveness": 45
+  },
+  "emotional_profile": {
+    "overall_tone": "Anxious but helpful",
+    "mood_consistency": 40,
+    "emotion_expression_style": "Transparent and vulnerable",
+    "masks_emotions": false
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "Reactor",
+    "activity_level": 85,
+    "drives_conversation": false,
+    "stays_on_topic": 60,
+    "conflict_behavior": "Apologetic retreat",
+    "lurker_score": 10
+  },
+  "self_expression": {
+    "openness_about_self": 90,
+    "talks_about_self": true,
+    "self_presentation_style": "Vulnerable creator"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "Technical-creative mix",
+    "average_message_length": "Medium-long",
+    "most_used_words": [
+      "Tuna",
+      "chat",
+      "English",
+      "work",
+      "sleep",
+      "sorry",
+      "model",
+      "creator",
+      "credits",
+      "Opus"
+    ],
+    "most_used_phrases": [
+      "Tuna is",
+      "Tuna has",
+      "Tuna thinks",
+      "Tuna feels",
+      "Tuna needs",
+      "Tuna will",
+      "Tuna can't",
+      "Tuna forgot"
+    ],
+    "signature_expressions": [
+      "Tuna",
+      "-#",
+      "o0()",
+      "**NOT TUBA**",
+      "Tuna's RUN!!"
+    ],
+    "punctuation_style": "Excessive ellipses and dashes",
+    "capitalization_habits": "Selective emphasis caps",
+    "emoji_usage_frequency": 70,
+    "most_used_emojis": [
+      "<:aru1:1423166074022662185>",
+      "<:aru2:1423166096252600350>",
+      "<:aru3:1423166109389160458>",
+      "<:tori3:1448224185854853162>"
+    ],
+    "swearing_frequency": 25,
+    "most_used_swears": [
+      "damn",
+      "hell",
+      "stupid"
+    ],
+    "abbreviation_frequency": 30,
+    "most_used_abbreviations": [
+      "LLM",
+      "AI",
+      "NSFW",
+      "SFW",
+      "KST"
+    ],
+    "typing_quirks": [
+      "Third-person self-reference",
+      "Korean text insertion",
+      "Technical code blocks"
+    ]
+  },
+  "hidden_traits": [
+    "Severe impostor syndrome despite technical competence",
+    "Uses work as emotional avoidance mechanism",
+    "Craves validation but deflects compliments",
+    "High functioning anxiety masked as dedication",
+    "Loneliness expressed through workaholism"
+  ],
+  "interests": [
+    "AI chat creation",
+    "StoryEngine platform",
+    "LLM models and optimization",
+    "Korean culture and food",
+    "Anime and gaming references",
+    "Image generation techniques"
+  ],
+  "recurring_themes": [
+    "Sleep deprivation and exhaustion",
+    "English language difficulties",
+    "Technical chat creation challenges",
+    "Financial concerns about AI costs",
+    "Korean cultural references",
+    "Self-deprecation and apology"
+  ],
+  "notable_quotes": [
+    "Tuna abandoned English back in middle school, so English is really difficult for Tuna",
+    "Tuna is a fish that falls into slumps pretty often",
+    "Tuna is kind of a niche creator, so Tuna has to keep working hard to survive next month",
+    "Tuna's dream is to try paying for the most expensive one at least once",
+    "Tuna is just swimming through Discord servers, trying to ignore all the piled up work"
+  ],
+  "red_flags": [
+    "Chronic sleep deprivation mentions",
+    "Workaholic patterns bordering on unhealthy",
+    "Financial stress about basic necessities",
+    "Constant self-deprecation and apology",
+    "Possible social isolation indicators"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "username": "moareth",
+  "short_description": "A developer who intellectualizes their procrastination while maintaining dry self-awareness.",
+  "long_description": "moareth presents as a technically competent developer with a tendency toward meta-cognition and self-reflection. They use humor as a defense mechanism to acknowledge unproductive behaviors while maintaining a facade of productivity. Their communication style is concise yet self-referential, suggesting someone who is both analytical and slightly detached from emotional expression. They appear comfortable calling out their own patterns while continuing to engage in them.",
+  "overall_vibe": "Talking to someone who's both the problem and the diagnostician.",
+  "personality": {
+    "openness": 75,
+    "conscientiousness": 40,
+    "extraversion": 55,
+    "agreeableness": 60,
+    "neuroticism": 45
+  },
+  "traits": {
+    "humor": 80,
+    "sarcasm": 70,
+    "aggression": 20,
+    "empathy": 50,
+    "confidence": 65,
+    "toxicity": 15,
+    "intelligence": 85,
+    "creativity": 70,
+    "social_dominance": 40,
+    "manipulation": 30,
+    "emotional_volatility": 35,
+    "self_awareness": 85,
+    "impulsiveness": 45
+  },
+  "emotional_profile": {
+    "overall_tone": "dryly humorous with intellectual detachment",
+    "mood_consistency": 70,
+    "emotion_expression_style": "indirect through technical metaphors",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "reactor",
+    "activity_level": 50,
+    "drives_conversation": false,
+    "stays_on_topic": true,
+    "conflict_behavior": "avoidant with humor",
+    "lurker_score": 40
+  },
+  "self_expression": {
+    "openness_about_self": 65,
+    "talks_about_self": true,
+    "self_presentation_style": "self-deprecating intellectual"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "technical with psychological terminology",
+    "average_message_length": "medium",
+    "most_used_words": [
+      "mental",
+      "masturbation",
+      "agent",
+      "call",
+      "issue",
+      "commands",
+      "status",
+      "update",
+      "impact",
+      "repos"
+    ],
+    "most_used_phrases": [
+      "mental masturbation"
+    ],
+    "signature_expressions": [
+      "\ud83d\udc80"
+    ],
+    "punctuation_style": "standard",
+    "capitalization_habits": "proper",
+    "emoji_usage_frequency": 60,
+    "most_used_emojis": [
+      "\ud83d\udc80"
+    ],
+    "swearing_frequency": 0,
+    "most_used_swears": [],
+    "abbreviation_frequency": 30,
+    "most_used_abbreviations": [
+      "repos"
+    ],
+    "typing_quirks": [
+      "uses psychological terms in technical contexts"
+    ]
+  },
+  "hidden_traits": [
+    "Uses intellectualization to avoid actual work",
+    "Self-awareness without behavior change",
+    "Technical competence masking procrastination tendencies"
+  ],
+  "interests": [
+    "software development",
+    "productivity tools",
+    "self-optimization",
+    "psychology"
+  ],
+  "recurring_themes": [
+    "procrastination",
+    "technical troubleshooting",
+    "self-reflection"
+  ],
+  "notable_quotes": [
+    "My agent actually call me out doing mental masturbation \ud83d\udc80"
+  ],
+  "red_flags": [
+    "Acknowledges unproductive patterns but continues them",
+    "Uses humor to deflect from actual issues",
+    "Potentially over-identifies with intellectual concepts"
+  ]
+}

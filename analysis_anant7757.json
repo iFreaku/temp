@@ -1,0 +1,129 @@
+{
+  "username": "anant7757",
+  "short_description": "A chaotic Minecraft and gaming obsessive who communicates in fragmented bursts and lives for digital drama.",
+  "long_description": "Anant7757 exhibits a highly reactive communication style dominated by gaming topics, particularly Minecraft updates and community gossip. Their messages are fragmented, often broken into multiple parts, suggesting impulsive typing and difficulty organizing thoughts cohesively. They demonstrate low conversational initiative, primarily reacting to others or dropping random gaming facts without context. Emotional expression is limited to exaggerated reactions through repetitive emoji usage rather than substantive communication. There's a pattern of attempting to create drama or reveal 'secrets' about server members, indicating attention-seeking behavior masked as casual banter.",
+  "overall_vibe": "Talking to them feels like trying to drink from a firehose of random gaming trivia and half-finished thoughts.",
+  "personality": {
+    "openness": 75,
+    "conscientiousness": 20,
+    "extraversion": 65,
+    "agreeableness": 40,
+    "neuroticism": 60
+  },
+  "traits": {
+    "humor": 40,
+    "sarcasm": 55,
+    "aggression": 35,
+    "empathy": 25,
+    "confidence": 50,
+    "toxicity": 45,
+    "intelligence": 55,
+    "creativity": 30,
+    "social_dominance": 25,
+    "manipulation": 40,
+    "emotional_volatility": 65,
+    "self_awareness": 20,
+    "impulsiveness": 85
+  },
+  "emotional_profile": {
+    "overall_tone": "scattered and mildly provocative",
+    "mood_consistency": 30,
+    "emotion_expression_style": "exaggerated through emojis and fragmented outbursts",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "reactor",
+    "activity_level": 70,
+    "drives_conversation": false,
+    "stays_on_topic": false,
+    "conflict_behavior": "provocative then defensive",
+    "lurker_score": 20
+  },
+  "self_expression": {
+    "openness_about_self": 25,
+    "talks_about_self": false,
+    "self_presentation_style": "gaming encyclopedia with attitude"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "casual gaming slang with Hindi mix",
+    "average_message_length": "very short",
+    "most_used_words": [
+      "Minecraft",
+      "update",
+      "shaders",
+      "game",
+      "added",
+      "pata",
+      "chala",
+      "bkl",
+      "mkc"
+    ],
+    "most_used_phrases": [
+      "pata chala",
+      "kya kar raha",
+      "kuch nhi",
+      "aj kal"
+    ],
+    "signature_expressions": [
+      "warra ass drama",
+      "spice it up",
+      "these nigga"
+    ],
+    "punctuation_style": "minimal, frequent asterisks for corrections",
+    "capitalization_habits": "inconsistent",
+    "emoji_usage_frequency": 70,
+    "most_used_emojis": [
+      "\ud83e\udee1",
+      "\ud83d\ude02",
+      "\ud83d\udc27"
+    ],
+    "swearing_frequency": 65,
+    "most_used_swears": [
+      "bkl",
+      "mkc",
+      "nigga"
+    ],
+    "abbreviation_frequency": 40,
+    "most_used_abbreviations": [
+      "lmao",
+      "wtf",
+      "fs",
+      "nvm"
+    ],
+    "typing_quirks": [
+      "frequent message splitting",
+      "random capitalization",
+      "Hindi-English code switching"
+    ]
+  },
+  "hidden_traits": [
+    "uses gaming knowledge as social currency",
+    "seeks validation through information dropping",
+    "low frustration tolerance manifesting as fragmented communication",
+    "performs confidence while actually being highly reactive"
+  ],
+  "interests": [
+    "Minecraft updates",
+    "gaming news",
+    "server drama",
+    "football transfers",
+    "Marvel content"
+  ],
+  "recurring_themes": [
+    "Minecraft feature discoveries",
+    "complaining about game updates",
+    "revealing server member secrets",
+    "correcting others' information"
+  ],
+  "notable_quotes": [
+    "These nigga created a new trident which work in both air and water",
+    "Woh bada log baan gaya mujhe ignore karne laga",
+    "Warra ass drama spice it up"
+  ],
+  "red_flags": [
+    "Frequent use of racial slurs despite context",
+    "Attempts to stir drama by revealing personal information about others",
+    "Highly impulsive and fragmented communication style",
+    "Consistently off-topic messaging"
+  ]
+}

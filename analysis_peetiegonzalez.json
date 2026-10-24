@@ -1,0 +1,125 @@
+{
+  "username": "peetiegonzalez",
+  "short_description": "A technical nerd who thinks benchmarking AI models counts as a personality trait and casually flexes multilingual abilities.",
+  "long_description": "Peetiegonzalez is deeply immersed in AI model benchmarking and technical performance analysis, displaying a methodical and data-driven communication style. They demonstrate above-average intelligence with specific technical knowledge, particularly around API performance, language models, and computing platforms. Their emotional expression is generally neutral with occasional dry humor, showing moderate self-awareness about their technical obsessions. They possess unexpected multilingual capabilities (Chinese/Japanese) which they mention casually rather than boastfully. Their communication patterns suggest someone who enjoys sharing findings and engaging in technical debates, but can come across as slightly pedantic.",
+  "overall_vibe": "Like talking to a human API documentation that occasionally cracks jokes in multiple languages.",
+  "personality": {
+    "openness": 85,
+    "conscientiousness": 75,
+    "extraversion": 40,
+    "agreeableness": 60,
+    "neuroticism": 30
+  },
+  "traits": {
+    "humor": 65,
+    "sarcasm": 40,
+    "aggression": 20,
+    "empathy": 45,
+    "confidence": 70,
+    "toxicity": 15,
+    "intelligence": 85,
+    "creativity": 60,
+    "social_dominance": 35,
+    "manipulation": 20,
+    "emotional_volatility": 25,
+    "self_awareness": 65,
+    "impulsiveness": 30
+  },
+  "emotional_profile": {
+    "overall_tone": "Analytical and matter-of-fact with dry humor undertones",
+    "mood_consistency": 80,
+    "emotion_expression_style": "Restrained and technical-focused",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "Initiator",
+    "activity_level": 70,
+    "drives_conversation": true,
+    "stays_on_topic": true,
+    "conflict_behavior": "Technical debate rather than personal conflict",
+    "lurker_score": 20
+  },
+  "self_expression": {
+    "openness_about_self": 40,
+    "talks_about_self": false,
+    "self_presentation_style": "Competent technical contributor"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "Technical with occasional multilingual flourishes",
+    "average_message_length": "Medium to long",
+    "most_used_words": [
+      "testing",
+      "faster",
+      "models",
+      "performance",
+      "usage",
+      "caps",
+      "benchmark",
+      "translation",
+      "linux",
+      "requests"
+    ],
+    "most_used_phrases": [
+      "I just tested",
+      "report back",
+      "considerably faster",
+      "the same endpoint"
+    ],
+    "signature_expressions": [
+      "damn",
+      "lmao",
+      "hahahaha",
+      "\u771f\u5b9e\u7684"
+    ],
+    "punctuation_style": "Standard with occasional ellipses",
+    "capitalization_habits": "Proper capitalization",
+    "emoji_usage_frequency": 10,
+    "most_used_emojis": [],
+    "swearing_frequency": 25,
+    "most_used_swears": [
+      "damn"
+    ],
+    "abbreviation_frequency": 40,
+    "most_used_abbreviations": [
+      "API",
+      "TPS",
+      "GLM5",
+      "M2.7",
+      "RAM"
+    ],
+    "typing_quirks": [
+      "occasional code blocks",
+      "multilingual text insertion"
+    ]
+  },
+  "hidden_traits": [
+    "Secretly enjoys showing off multilingual skills",
+    "Has strong opinions about operating systems but presents them as facts",
+    "Uses technical jargon as social currency",
+    "Masks emotional expression behind data and benchmarks"
+  ],
+  "interests": [
+    "AI model benchmarking",
+    "API performance",
+    "Multilingual computing",
+    "Linux systems",
+    "Technical optimization"
+  ],
+  "recurring_themes": [
+    "Performance comparisons",
+    "Usage caps and quotas",
+    "Technical efficiency",
+    "Multilingual computing experiences"
+  ],
+  "notable_quotes": [
+    "The oc-go plan usage cap is insane, too. I have no use for M2.7 but damn...",
+    "it casually dropped \u771f\u5b9e\u7684 in the middle of its otherwise English breakdown",
+    "That RAM ain't gonna fab itself. Get back to work!",
+    "linux is lovely. It's atomic,modular, secure, multi-user..."
+  ],
+  "red_flags": [
+    "Can become overly technical in non-technical conversations",
+    "Occasionally dismissive of others' computing preferences",
+    "Uses technical knowledge as social dominance tool"
+  ]
+}

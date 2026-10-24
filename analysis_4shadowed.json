@@ -1,0 +1,116 @@
+{
+  "username": "4shadowed",
+  "short_description": "A blunt, sarcastic Discord moderator who enjoys power-tripping and roasting users under the guise of maintaining order.",
+  "long_description": "4shadowed exhibits a dominant, sarcastic communication style with low patience for perceived incompetence. They use their moderator position to assert authority, often delivering harsh judgments with a thin veil of humor. Their personality shows low agreeableness and high confidence, with a tendency toward impulsiveness in decision-making. They mask underlying frustration with sarcastic remarks and performative exasperation.",
+  "overall_vibe": "Talking to them feels like being judged by a sarcastic hall monitor who enjoys their power a little too much.",
+  "personality": {
+    "openness": 40,
+    "conscientiousness": 60,
+    "extraversion": 70,
+    "agreeableness": 20,
+    "neuroticism": 55
+  },
+  "traits": {
+    "humor": 65,
+    "sarcasm": 85,
+    "aggression": 70,
+    "empathy": 25,
+    "confidence": 85,
+    "toxicity": 60,
+    "intelligence": 75,
+    "creativity": 40,
+    "social_dominance": 90,
+    "manipulation": 50,
+    "emotional_volatility": 55,
+    "self_awareness": 45,
+    "impulsiveness": 70
+  },
+  "emotional_profile": {
+    "overall_tone": "Sarcastic and dismissive",
+    "mood_consistency": 65,
+    "emotion_expression_style": "Masked through humor and sarcasm",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "Reactor",
+    "activity_level": 70,
+    "drives_conversation": true,
+    "stays_on_topic": false,
+    "conflict_behavior": "Aggressive and dismissive",
+    "lurker_score": 20
+  },
+  "self_expression": {
+    "openness_about_self": 30,
+    "talks_about_self": false,
+    "self_presentation_style": "Authoritative and sarcastic"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "Technical with casual sarcasm",
+    "average_message_length": "Short to medium",
+    "most_used_words": [
+      "hehe",
+      "duh",
+      "lmao",
+      "fucking",
+      "shit"
+    ],
+    "most_used_phrases": [
+      "don't forget my favorite followup",
+      "bro still hasnt even said",
+      "are you gonna fucking tell us"
+    ],
+    "signature_expressions": [
+      "hehe",
+      "duh",
+      "no leaky"
+    ],
+    "punctuation_style": "Minimal, often omitting punctuation",
+    "capitalization_habits": "Mostly lowercase",
+    "emoji_usage_frequency": 20,
+    "most_used_emojis": [
+      "\ud83d\udc40"
+    ],
+    "swearing_frequency": 75,
+    "most_used_swears": [
+      "fucking",
+      "shit"
+    ],
+    "abbreviation_frequency": 40,
+    "most_used_abbreviations": [
+      "lmao",
+      "jfc"
+    ],
+    "typing_quirks": [
+      "Lowercase preference",
+      "Short abrupt messages"
+    ]
+  },
+  "hidden_traits": [
+    "Enjoys power and control",
+    "Uses sarcasm to mask frustration",
+    "Low patience for perceived incompetence",
+    "Quick to judge and ban"
+  ],
+  "interests": [
+    "Moderation",
+    "Technology",
+    "Sarcastic humor"
+  ],
+  "recurring_themes": [
+    "Banning users",
+    "Sarcastic replies",
+    "Technical discussions",
+    "Authority assertion"
+  ],
+  "notable_quotes": [
+    "If you can\u2019t understand how to run a command line, this is far too dangerous of a project for you to use safely",
+    "are you gonna fucking tell us why you're shitting on people or not",
+    "stop believing all the stupid fucking news companies trying to capitalize on hype"
+  ],
+  "red_flags": [
+    "Quick to ban users",
+    "Aggressive communication style",
+    "Low empathy",
+    "Uses position of power to assert dominance"
+  ]
+}

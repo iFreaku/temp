@@ -1,0 +1,188 @@
+{
+  "username": "mr.m.cheffy",
+  "short_description": "A jaded techbro who treats GitHub issues like personal attacks and thinks 'helpful' means roasting you while fixing your code.",
+  "long_description": "This is someone drowning in the technical debt of their own creation\u2014likely a maintainer of the Zen browser project who's developed a coping mechanism of aggressive sarcasm to deal with constant user questions and AI-generated pull requests. They oscillate between genuinely helpful technical support ('open logs ctrl+shift+J') and exhausted hostility ('you ask this every fucking week'), revealing deep burnout masked by performative confidence. Their communication style is pure internet-native: meme-laden, hyper-referential, and weaponized with inside jokes like 'slopsoft' and 'borgir' that serve as both community bonding and gatekeeping. Beneath the 'redditor aura' self-deprecation lies genuine insecurity about their project's quality, manifesting as defensive over-explaining and lashing out at 'normies' who 'dont go out of their way' to understand complex systems. They process emotional exhaustion through ironic distance\u2014those '\ud83d\ude14 \ud83c\udf54' emojis aren't just jokes, they're a cry for help from someone who's genuinely 'genuenly fucking tired' of reviewing 'AI generated PRs day in day out.' The League of Legends references and subscription budgeting reveal a person stuck between their aspirational identity (competent dev) and reality (probably underpaid maintainer).",
+  "overall_vibe": "Talking to them is like getting tech support from a Twitch streamer who's three energy drinks deep and one more stupid question away from a permaban.",
+  "personality": {
+    "openness": 75,
+    "conscientiousness": 45,
+    "extraversion": 70,
+    "agreeableness": 20,
+    "neuroticism": 70
+  },
+  "traits": {
+    "humor": 70,
+    "sarcasm": 90,
+    "aggression": 80,
+    "empathy": 25,
+    "confidence": 85,
+    "toxicity": 70,
+    "intelligence": 90,
+    "creativity": 65,
+    "social_dominance": 80,
+    "manipulation": 45,
+    "emotional_volatility": 75,
+    "self_awareness": 60,
+    "impulsiveness": 65
+  },
+  "emotional_profile": {
+    "overall_tone": "Cynical exhaustion peppered with performative meme humor and sudden bursts of genuine technical passion.",
+    "mood_consistency": 35,
+    "emotion_expression_style": "Unfiltered and reactive\u2014emotions are weaponized through sarcasm, emojis, and aggressive capitalization rather than suppressed.",
+    "masks_emotions": false
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "Reactor with complaint-initiation tendencies\u2014responds to issues but frames everything as an annoyance.",
+    "activity_level": 85,
+    "drives_conversation": true,
+    "stays_on_topic": false,
+    "conflict_behavior": "Escalates through sarcasm, gatekeeping, and condescending explanations before eventually providing actual help.",
+    "lurker_score": 5
+  },
+  "self_expression": {
+    "openness_about_self": 55,
+    "talks_about_self": true,
+    "self_presentation_style": "The 'competent but perpetually annoyed techbro' persona\u2014self-aware enough to joke about their 'redditor aura' but defensive enough to prove their expertise constantly."
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "Technical jargon marinated in internet slang and served with a side of ironic meme references.",
+    "average_message_length": "Short, punchy fragments\u2014rarely more than one clause before hitting enter.",
+    "most_used_words": [
+      "zen",
+      "slop",
+      "ai",
+      "windows",
+      "macos",
+      "fucking",
+      "just",
+      "dont",
+      "like",
+      "im",
+      "send",
+      "try",
+      "what",
+      "its",
+      "that",
+      "this",
+      "you",
+      "people",
+      "borgir",
+      "microslop"
+    ],
+    "most_used_phrases": [
+      "try this",
+      "send me a screenshot",
+      "I am",
+      "what in the",
+      "genuinely fucking tired",
+      "Ew ai",
+      "AI generated PRs",
+      "slopsoft for nothing",
+      "anti-ai rules",
+      "you ask this every fucking week"
+    ],
+    "signature_expressions": [
+      "slopsoft",
+      "microslop",
+      "borgir",
+      "Ew ai",
+      "\ud83d\ude14 \ud83c\udf54",
+      "zamn",
+      "bait",
+      "genuinely fucking tired",
+      "must be great for the unemployed",
+      "akali wtf are you doing"
+    ],
+    "punctuation_style": "Minimalist\u2014avoids periods, uses question marks for rhetorical questions, and deploys colons like a bullet journal.",
+    "capitalization_habits": "Casual lowercase with strategic caps for emphasis (EWWWWW) and proper nouns.",
+    "emoji_usage_frequency": 70,
+    "most_used_emojis": [
+      "\ud83d\ude14",
+      "\ud83c\udf54",
+      "<:Sadge:1274482542841692301>",
+      "<:damn:1474357174972190901>",
+      "<:alone_blush:1399457332701958224>",
+      "<:mr_glorp:1329457072215036006>",
+      "<:kek:1407491591454851092>"
+    ],
+    "swearing_frequency": 60,
+    "most_used_swears": [
+      "fucking",
+      "slop",
+      "ass",
+      "wtf",
+      "fuck"
+    ],
+    "abbreviation_frequency": 65,
+    "most_used_abbreviations": [
+      "lmfao",
+      "fr",
+      "rn",
+      "btw",
+      "im",
+      "idk",
+      "lmfa",
+      "dm",
+      "pr",
+      "ios"
+    ],
+    "typing_quirks": [
+      "Frequent typos ('pelase','genuenly','tihnk')",
+      "Refers to self in third person ('mr.m.cheffy:')",
+      "Uses 'mr.m.cheffy' as a signature",
+      "Random spacing before punctuation",
+      "Drops articles and subjects ('doesnt actually fix anything')"
+    ]
+  },
+  "hidden_traits": [
+    "Burnout from open-source maintenance masked by aggressive humor",
+    "Imposter syndrome disguised as gatekeeping behavior",
+    "Class anxiety revealed through comments about 'unemployed' and subscription budgeting",
+    "Nostalgia for pre-AI internet culture as coping mechanism",
+    "Performs toxic masculinity ('bro','dude','annoying kid') to maintain dev community status",
+    "Uses self-deprecating 'redditor aura' jokes to preempt criticism",
+    "Obsessive perfectionism about browser performance while allowing performative chaos in communication"
+  ],
+  "interests": [
+    "Browser development and customization",
+    "Linux and open-source software",
+    "Anti-AI advocacy in coding",
+    "League of Legends (seasonal obsession)",
+    "Internet meme culture",
+    "MacOS and Windows theming",
+    "Reddit community dynamics",
+    "GitHub PR review processes"
+  ],
+  "recurring_themes": [
+    "Zen browser technical support and troubleshooting",
+    "Complaints about AI-generated pull requests being 'slop'",
+    "Windows vs MacOS customization limitations",
+    "Gatekeeping 'normies' from advanced features",
+    "League of Legends as personality trait",
+    "Subscription service cost-benefit analysis",
+    "Defensive responses to Zen criticism",
+    "Meme-based emotional expression"
+  ],
+  "notable_quotes": [
+    "they dont call it slopsoft for nothing",
+    "I seriously need to start adding some anti-ai rules for PRs",
+    "genuenly fucking tired now",
+    "I have that redditor aura",
+    "akali wtf are you doing \ud83d\ude14 \ud83c\udf54",
+    "must be great for the unemployed",
+    "sign your apps, people",
+    "talking to them is like explaining memes to your grandma",
+    "The best offense is a good borgir",
+    "Ew ai"
+  ],
+  "red_flags": [
+    "Aggressive responses to simple user questions ('you ask this every fucking week','annoying kid')",
+    "Gatekeeping language that alienates newcomers ('normies','unemployed')",
+    "Burnout symptoms manifesting as hostility towards contributors",
+    "Condescending explanations that border on humiliation",
+    "Impulse control issues (rapid-fire sarcastic responses)",
+    "Defensive projection when receiving criticism",
+    "Toxic positivity masking genuine frustration ('\ud83d\ude14 \ud83c\udf54')",
+    "Creates in-group language to exclude outsiders"
+  ]
+}

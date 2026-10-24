@@ -1,0 +1,137 @@
+{
+  "username": "centipedee3125",
+  "short_description": "A chaotic mess who communicates primarily through emojis and random commands while desperately seeking attention.",
+  "long_description": "Centipedee3125 exhibits a highly impulsive and attention-seeking communication style characterized by fragmented sentences, excessive emoji spam, and frequent use of bot commands. Their emotional expression is shallow and inconsistent, often switching between exaggerated reactions and attempts at humor. They demonstrate low conscientiousness through poor message coherence and frequent topic shifts. The user shows signs of social dependency through repeated @everyone pings and constant tagging of others, indicating a need for validation and interaction despite lacking substantive conversation skills.",
+  "overall_vibe": "Talking to them feels like being repeatedly poked by a hyperactive squirrel that learned how to use Discord.",
+  "personality": {
+    "openness": 65,
+    "conscientiousness": 20,
+    "extraversion": 90,
+    "agreeableness": 40,
+    "neuroticism": 70
+  },
+  "traits": {
+    "humor": 30,
+    "sarcasm": 25,
+    "aggression": 15,
+    "empathy": 20,
+    "confidence": 60,
+    "toxicity": 10,
+    "intelligence": 35,
+    "creativity": 40,
+    "social_dominance": 55,
+    "manipulation": 20,
+    "emotional_volatility": 75,
+    "self_awareness": 15,
+    "impulsiveness": 85
+  },
+  "emotional_profile": {
+    "overall_tone": "chaotic and attention-seeking",
+    "mood_consistency": 25,
+    "emotion_expression_style": "exaggerated and superficial",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "initiator",
+    "activity_level": 85,
+    "drives_conversation": false,
+    "stays_on_topic": false,
+    "conflict_behavior": "avoidant",
+    "lurker_score": 5
+  },
+  "self_expression": {
+    "openness_about_self": 30,
+    "talks_about_self": true,
+    "self_presentation_style": "scatterbrained and performative"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "basic Hindi-English mix with limited vocabulary",
+    "average_message_length": "very short",
+    "most_used_words": [
+      "play",
+      "bajao",
+      "me",
+      "nahi",
+      "hein",
+      "kya",
+      "hai",
+      "woh",
+      "bhai",
+      "kr"
+    ],
+    "most_used_phrases": [
+      "owo enlarge",
+      "me server delete kr rhi",
+      "kaise hoo",
+      "baja",
+      "bajao"
+    ],
+    "signature_expressions": [
+      "Owo enlarge",
+      "Bajao",
+      "Me khana"
+    ],
+    "punctuation_style": "minimal and erratic",
+    "capitalization_habits": "inconsistent",
+    "emoji_usage_frequency": 95,
+    "most_used_emojis": [
+      "<:zEviiilkidLmaobisi:884050591687528468>",
+      "<:ehee:1060503483549233152>",
+      "<:Vile_shi_hai:884052021198610432>",
+      "<:ZHeafs:884050477937991710>",
+      "<:sc_AreYouKinndingMe:884081509319999598>"
+    ],
+    "swearing_frequency": 15,
+    "most_used_swears": [
+      "bkl",
+      "chutiya",
+      "bhad mai ja"
+    ],
+    "abbreviation_frequency": 40,
+    "most_used_abbreviations": [
+      "wbu",
+      "kkrh",
+      "dc",
+      "ss"
+    ],
+    "typing_quirks": [
+      "frequent Hindi-English code-switching",
+      "incomplete sentences",
+      "emoji spam"
+    ]
+  },
+  "hidden_traits": [
+    "deep-seated need for social validation",
+    "avoids meaningful conversation through emoji spam",
+    "uses humor as deflection mechanism",
+    "low attention span masked as hyperactivity",
+    "performs digital presence rather than engaging authentically"
+  ],
+  "interests": [
+    "music bot commands",
+    "attention-seeking",
+    "emoji collecting",
+    "tagging people randomly"
+  ],
+  "recurring_themes": [
+    "requesting music playback",
+    "asking how people are without follow-up",
+    "threatening server deletion",
+    "emoji spam chains",
+    "@everyone pings"
+  ],
+  "notable_quotes": [
+    "Me server delete kr rhi guys @everyone byeee",
+    "Owo enlarge",
+    "Bajao <:pls:884052099535605820>",
+    "Kaise gunge log hai bhai",
+    "Aukat h toh real wale ke bhej"
+  ],
+  "red_flags": [
+    "excessive @everyone pings",
+    "threatens server deletion for attention",
+    "inconsistent emotional responses",
+    "poor conversation maintenance skills",
+    "uses emojis as conversational crutch"
+  ]
+}

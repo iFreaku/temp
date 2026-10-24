@@ -1,0 +1,138 @@
+{
+  "username": "moiz.kagdi",
+  "short_description": "A chronically online anime enthusiast who thinks political edginess and gaming advice qualify as personality traits.",
+  "long_description": "Moiz exhibits a fragmented attention span with rapid topic switching between anime, gaming, and half-baked political commentary. His communication style is reactive rather than initiatory, often responding to others with low-effort quips and GIFs rather than substantive contributions. Shows patterns of seeking social validation through game organizing attempts that consistently fail due to low social capital. Uses humor as a deflection mechanism to avoid genuine emotional expression or meaningful conversation. Demonstrates surface-level engagement with multiple interests without deep knowledge in any particular area.",
+  "overall_vibe": "Talking to him feels like watching someone scroll through TikTok with the sound off.",
+  "personality": {
+    "openness": 65,
+    "conscientiousness": 30,
+    "extraversion": 40,
+    "agreeableness": 35,
+    "neuroticism": 55
+  },
+  "traits": {
+    "humor": 60,
+    "sarcasm": 70,
+    "aggression": 45,
+    "empathy": 25,
+    "confidence": 50,
+    "toxicity": 40,
+    "intelligence": 45,
+    "creativity": 35,
+    "social_dominance": 20,
+    "manipulation": 30,
+    "emotional_volatility": 50,
+    "self_awareness": 25,
+    "impulsiveness": 65
+  },
+  "emotional_profile": {
+    "overall_tone": "scattered and defensive",
+    "mood_consistency": 40,
+    "emotion_expression_style": "indirect through memes and GIFs",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "reactor",
+    "activity_level": 70,
+    "drives_conversation": false,
+    "stays_on_topic": false,
+    "conflict_behavior": "deflects with humor",
+    "lurker_score": 30
+  },
+  "self_expression": {
+    "openness_about_self": 40,
+    "talks_about_self": false,
+    "self_presentation_style": "ironic and detached"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "casual with Hindi-English code-switching",
+    "average_message_length": "short",
+    "most_used_words": [
+      "kaboom",
+      "yes",
+      "hai",
+      "kaplaw",
+      "kapaw",
+      "yay",
+      "bro",
+      "aaja",
+      "modi",
+      "pity"
+    ],
+    "most_used_phrases": [
+      "i go",
+      "aap btao",
+      "pta nahi",
+      "sahi hi bolta hu",
+      "job pe hu"
+    ],
+    "signature_expressions": [
+      "kaboom",
+      "kaplaw",
+      "\ud83d\udc27",
+      "trust"
+    ],
+    "punctuation_style": "minimal",
+    "capitalization_habits": "mostly lowercase",
+    "emoji_usage_frequency": 80,
+    "most_used_emojis": [
+      "\ud83d\udc27",
+      "\ud83d\ude02",
+      "\u2764\ufe0f",
+      "\ud83e\udd14",
+      "\ud83d\udc94"
+    ],
+    "swearing_frequency": 35,
+    "most_used_swears": [
+      "lode",
+      "mkc",
+      "chut",
+      "lund"
+    ],
+    "abbreviation_frequency": 60,
+    "most_used_abbreviations": [
+      "fr",
+      "ig",
+      "tbse",
+      "shyd",
+      "vgera"
+    ],
+    "typing_quirks": [
+      "frequent Hindi-English mixing",
+      "GIF/spam reliance",
+      "incomplete sentences"
+    ]
+  },
+  "hidden_traits": [
+    "craves validation but avoids vulnerability",
+    "uses humor to mask social anxiety",
+    "fear of being ignored or rejected",
+    "performs confidence while actually being insecure"
+  ],
+  "interests": [
+    "anime",
+    "gaming",
+    "Indian politics",
+    "memes",
+    "mobile technology"
+  ],
+  "recurring_themes": [
+    "failed scribble game attempts",
+    "modi/BJP references",
+    "anime recommendations",
+    "job/training mentions",
+    "technical gaming terms"
+  ],
+  "notable_quotes": [
+    "modi hai to mumkin hai",
+    "drop hi na lena pad jaye",
+    "aapki virginity bhi loot lu kya",
+    "uske lode lag gaye"
+  ],
+  "red_flags": [
+    "inconsistent emotional availability",
+    "frequent topic avoidance",
+    "low effort in maintaining conversations",
+    "tendency to disappear during planned activities"
+  ]
+}

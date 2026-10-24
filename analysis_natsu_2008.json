@@ -1,0 +1,134 @@
+{
+  "username": "natsu_2008",
+  "short_description": "A scatterbrained academic overthinker who oscillates between exam stress and anime references while desperately trying to keep up with server lore.",
+  "long_description": "natsu_2008 presents as a high school student grappling with academic pressures (CUET, board exams, PCM stream) while navigating complex social dynamics in a Discord server. They exhibit high neuroticism through constant academic anxiety and emotional volatility, often expressing frustration about English exam difficulty and college admissions. Their communication is reactive\u2014jumping between topics like anime (Naruto references), exam stress, server member histories, and random questions. They show persistent nostalgia for past interactions ('mera phela dost tha 2021') and display low self-awareness by frequently misunderstanding social cues and needing clarifications. Their emotional expression is candid but shallow, relying heavily on repetitive emojis and canned reactions rather than nuanced communication.",
+  "overall_vibe": "Talking to them feels like trying to solve a math problem while someone constantly changes the numbers.",
+  "personality": {
+    "openness": 40,
+    "conscientiousness": 65,
+    "extraversion": 55,
+    "agreeableness": 70,
+    "neuroticism": 85
+  },
+  "traits": {
+    "humor": 30,
+    "sarcasm": 20,
+    "aggression": 10,
+    "empathy": 60,
+    "confidence": 25,
+    "toxicity": 5,
+    "intelligence": 50,
+    "creativity": 20,
+    "social_dominance": 15,
+    "manipulation": 5,
+    "emotional_volatility": 75,
+    "self_awareness": 20,
+    "impulsiveness": 60
+  },
+  "emotional_profile": {
+    "overall_tone": "Anxious and nostalgic",
+    "mood_consistency": 30,
+    "emotion_expression_style": "Direct but repetitive",
+    "masks_emotions": false
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "Reactor",
+    "activity_level": 70,
+    "drives_conversation": false,
+    "stays_on_topic": false,
+    "conflict_behavior": "Avoidant",
+    "lurker_score": 20
+  },
+  "self_expression": {
+    "openness_about_self": 65,
+    "talks_about_self": true,
+    "self_presentation_style": "Candid but unfiltered"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "Informal Hinglish",
+    "average_message_length": "Short to medium",
+    "most_used_words": [
+      "cuet",
+      "boards",
+      "pcm",
+      "english",
+      "collage",
+      "exam",
+      "dost",
+      "pareshan",
+      "bhot",
+      "me"
+    ],
+    "most_used_phrases": [
+      "pta nhi",
+      "ho gya",
+      "kya h",
+      "mere se",
+      "bhot though h"
+    ],
+    "signature_expressions": [
+      "Aare",
+      "Yaar",
+      "Hein",
+      "Lol"
+    ],
+    "punctuation_style": "Inconsistent",
+    "capitalization_habits": "Mostly lowercase",
+    "emoji_usage_frequency": 80,
+    "most_used_emojis": [
+      "<:TC_aura_se_pareshan:1112665189641367622>",
+      "<:TC_billa_scared:1081380692761526365>",
+      "\ud83d\ude02",
+      "\ud83e\udd40",
+      "\ud83d\ude1d"
+    ],
+    "swearing_frequency": 10,
+    "most_used_swears": [
+      "bhondu",
+      "gendu"
+    ],
+    "abbreviation_frequency": 40,
+    "most_used_abbreviations": [
+      "dm",
+      "id",
+      "pfp",
+      "ss"
+    ],
+    "typing_quirks": [
+      "Frequent Hindi-English code-switching",
+      "Random capitalization",
+      "Incomplete sentences"
+    ]
+  },
+  "hidden_traits": [
+    "Seeks validation through academic talk",
+    "Uses nostalgia as social bonding mechanism",
+    "Anxiety manifests as topic jumping",
+    "Low confidence masked by constant questioning"
+  ],
+  "interests": [
+    "Academic exams",
+    "Anime (Naruto)",
+    "College admissions",
+    "Mobile Legends",
+    "Server history"
+  ],
+  "recurring_themes": [
+    "Exam stress",
+    "English difficulty",
+    "Old friends",
+    "Server member identities",
+    "Academic stream choices"
+  ],
+  "notable_quotes": [
+    "English itni though h iski",
+    "Mera to state board h",
+    "Mere jaise bhondu ko pagal bana rhe ho sab",
+    "Me pyaar wale anime nhi dekhta"
+  ],
+  "red_flags": [
+    "Academic anxiety affecting communication",
+    "Difficulty following conversations",
+    "Overly dependent on server history for social connection"
+  ]
+}

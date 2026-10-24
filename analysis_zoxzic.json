@@ -1,0 +1,137 @@
+{
+  "username": "zoxzic",
+  "short_description": "Indecisive Gen Z browser snob with champagne tastes and a Capri Sun skillset, desperately seeking a Chromium unicorn that doesn't exist.",
+  "long_description": "This is the digital equivalent of someone walking into a hardware store asking for 'a hammer, but make it fashion.' zoxzic is clearly new to the PC ecosystem ('ts my first actual pc') yet operates with the entitled precision of a seasoned power user, rejecting Arc, Edge, and Vivaldi while chasing an aesthetic that only exists in their head. Their communication style is pure Gen Z internet soup\u2014aggressively casual, abbreviations as personality, and lowercase as identity. They exhibit classic analysis paralysis: ask for help, reject every solution, then reframe the same question five different ways. What's really happening is a performance of technical sophistication masking deep insecurity. They want to be seen as someone with discerning taste ('zen vertical tab autohide popping up looks clean') but reveal their novice status with every 'ion know how to do allat.' The self-reply is a tell: they're not just seeking information, they're thinking out loud because they lack the framework to evaluate options independently. This is someone who will spend 6 hours customizing a browser and 0 minutes actually using it.",
+  "overall_vibe": "Talking to them is like being tech support for a Pinterest board\u2014exhausting, aesthetic-driven, and ultimately pointless because nothing will ever be 'clean' enough.",
+  "personality": {
+    "openness": 62,
+    "conscientiousness": 38,
+    "extraversion": 52,
+    "agreeableness": 32,
+    "neuroticism": 74
+  },
+  "traits": {
+    "humor": 28,
+    "sarcasm": 18,
+    "aggression": 22,
+    "empathy": 31,
+    "confidence": 36,
+    "toxicity": 34,
+    "intelligence": 48,
+    "creativity": 29,
+    "social_dominance": 33,
+    "manipulation": 24,
+    "emotional_volatility": 68,
+    "self_awareness": 42,
+    "impulsiveness": 64
+  },
+  "emotional_profile": {
+    "overall_tone": "frustrated earnestness with passive-aggressive undertones",
+    "mood_consistency": 35,
+    "emotion_expression_style": "unfiltered and performatively casual",
+    "masks_emotions": false
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "reactor with delusions of initiative",
+    "activity_level": 68,
+    "drives_conversation": false,
+    "stays_on_topic": true,
+    "conflict_behavior": "passive-resistant complaining",
+    "lurker_score": 18
+  },
+  "self_expression": {
+    "openness_about_self": 58,
+    "talks_about_self": true,
+    "self_presentation_style": "insecure competence signaling through slang"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "Gen Z slang dictionary exploded in a browser forum",
+    "average_message_length": "short",
+    "most_used_words": [
+      "zen",
+      "arc",
+      "edge",
+      "chromium",
+      "tabs",
+      "look",
+      "customizable",
+      "installed",
+      "extension",
+      "windows"
+    ],
+    "most_used_phrases": [
+      "is there a way",
+      "i wish",
+      "js looks",
+      "ngl i",
+      "ion know",
+      "ts my first"
+    ],
+    "signature_expressions": [
+      "js",
+      "ion",
+      "ngl",
+      "yk",
+      "ts",
+      "lemme",
+      "allat",
+      "boy y it look like that"
+    ],
+    "punctuation_style": "minimalist to the point of aggression",
+    "capitalization_habits": "lowercase supremacist",
+    "emoji_usage_frequency": 0,
+    "most_used_emojis": [],
+    "swearing_frequency": 0,
+    "most_used_swears": [],
+    "abbreviation_frequency": 92,
+    "most_used_abbreviations": [
+      "js",
+      "ion",
+      "ngl",
+      "yk",
+      "ts",
+      "smth",
+      "allat",
+      "lemme"
+    ],
+    "typing_quirks": [
+      "aggressive lowercase",
+      "self-replies for emphasis",
+      "spaces before question marks"
+    ]
+  },
+  "hidden_traits": [
+    "Uses slang density to mask technical insecurity",
+    "Perfectionism driven by aesthetic anxiety rather than functional needs",
+    "Performs as discerning user while lacking baseline technical literacy",
+    "Self-replies indicate internal monologue externalized for validation",
+    "Rejection of solutions is a defense mechanism against admitting ignorance"
+  ],
+  "interests": [
+    "browser customization",
+    "chromium-based browsers",
+    "vertical tabs",
+    "UI aesthetics",
+    "PC building (novice)"
+  ],
+  "recurring_themes": [
+    "search for non-existent perfect solution",
+    "aesthetic vs functionality conflict",
+    "rejection of community suggestions",
+    "novice user performance anxiety"
+  ],
+  "notable_quotes": [
+    "ts my first actual pc",
+    "boy y it look like that",
+    "ngl i wish zen was on chromium",
+    "js looks goofy",
+    "ion know how to do allat"
+  ],
+  "red_flags": [
+    "excessive indecisiveness while feigning specificity",
+    "rejects expert solutions then complains about lack of options",
+    "uses slang as social armor",
+    "exhibits mild entitlement to custom solutions",
+    "will likely ask the same question again tomorrow"
+  ]
+}

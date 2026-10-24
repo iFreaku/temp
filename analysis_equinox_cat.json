@@ -1,0 +1,174 @@
+{
+  "username": "equinox_cat",
+  "short_description": "A tech-obsessed troll who weaponizes their knowledge to 'skill issue' people into submission while simultaneously being so frugal they'd rather die than pay for Spotify Premium.",
+  "long_description": "This is someone whose entire personality is built on being the most contrarian person in any given server. They wield their technical knowledge like a cudgel, not to educate but to establish dominance through a relentless barrage of 'skill issue' dismissals and deliberately obtuse trolling (see: the 'PNG is Piped Natural Gas' incident). Their digital footprint reveals a power user who has confused customization with character\u2014triple-booting operating systems not for productivity, but for the sheer flex of it. Beneath the aggressive frugality and piracy evangelism lies a profound insecurity masked by sarcasm; they can't simply disagree with you, they must make you feel fundamentally inadequate for having a different opinion about browser transparency. Every interaction is a performance of superiority where they position themselves as the enlightened one who sees through corporate greed, consumerism, and your 'noob' choices. The constant meme-spamming and emoji barrage isn't just communication\u2014it's a defense mechanism preventing any genuine emotional connection. They're the friend who'd rather spend 6 hours configuring a Linux rice than 6 minutes talking about their feelings, then call you 'capped' for suggesting therapy costs money.",
+  "overall_vibe": "Interacting with them feels like being trapped in a CS lab with a feral cat who learned to type just to call your setup mid and your financial decisions cringe.",
+  "personality": {
+    "openness": 85,
+    "conscientiousness": 25,
+    "extraversion": 75,
+    "agreeableness": 15,
+    "neuroticism": 70
+  },
+  "traits": {
+    "humor": 80,
+    "sarcasm": 95,
+    "aggression": 70,
+    "empathy": 20,
+    "confidence": 85,
+    "toxicity": 75,
+    "intelligence": 75,
+    "creativity": 70,
+    "social_dominance": 80,
+    "manipulation": 65,
+    "emotional_volatility": 75,
+    "self_awareness": 40,
+    "impulsiveness": 85
+  },
+  "emotional_profile": {
+    "overall_tone": "Sarcastic and contrarian with performative trollishness",
+    "mood_consistency": 40,
+    "emotion_expression_style": "Through memes, dismissive catchphrases, and deliberate provocation",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "Reactor who escalates every thread into a technical dick-measuring contest",
+    "activity_level": 85,
+    "drives_conversation": true,
+    "stays_on_topic": false,
+    "conflict_behavior": "Provocative contrarian who tags mods on others while ragebaiting for reactions",
+    "lurker_score": 10
+  },
+  "self_expression": {
+    "openness_about_self": 60,
+    "talks_about_self": true,
+    "self_presentation_style": "Superior tech guru who is too smart to pay for anything and wants you to know it"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "Technical jargon weaponized with internet slang and troll dialect",
+    "average_message_length": "Short to medium, optimized for maximum dismissiveness per character",
+    "most_used_words": [
+      "skill",
+      "issue",
+      "bro",
+      "naah",
+      "kek",
+      "blud",
+      "transparency",
+      "windows",
+      "linux",
+      "macos",
+      "customization",
+      "piracy",
+      "cap",
+      "sus",
+      "ragebaited"
+    ],
+    "most_used_phrases": [
+      "skill issue",
+      "ragebaited",
+      "stop the cap",
+      "we're piracy centric server",
+      "i got a job dude",
+      "for american people"
+    ],
+    "signature_expressions": [
+      "PNG is Piped Natural Gas",
+      "ragebaited",
+      "skill issue",
+      "stop the cap",
+      "we're piracy centric server"
+    ],
+    "punctuation_style": "Abject minimalism\u2014commas are for people with time to waste",
+    "capitalization_habits": "Lowercase supremacist who only capitalizes when mocking someone",
+    "emoji_usage_frequency": 90,
+    "most_used_emojis": [
+      "<:lol:1393630857473949706>",
+      "<:sus_stare:1401619359192977478>",
+      "<:pepeSus:1386234213547642880>",
+      "<:glorp:1318305793044385954>",
+      "<:dentge:1466492520560201828>",
+      "<:catHehe:1386247191231729778>",
+      "<:mrglorp:1393626455157772318>",
+      "<:what_the_actual_fuck:1274483582747934750>",
+      "<:damn:1469037124136472674>",
+      "<:skully:1279861883037286535>"
+    ],
+    "swearing_frequency": 60,
+    "most_used_swears": [
+      "fuck",
+      "fucking",
+      "shit",
+      "shitty",
+      "damn",
+      "ass",
+      "mf"
+    ],
+    "abbreviation_frequency": 85,
+    "most_used_abbreviations": [
+      "rn",
+      "btw",
+      "fyi",
+      "kek",
+      "naah",
+      "idk",
+      "ig",
+      "nvm",
+      "mf",
+      "blud",
+      "ts"
+    ],
+    "typing_quirks": [
+      "Double vowels for emphasis (naah)",
+      "Lowercase everything except targeted mockery",
+      "Spaces before question marks for that unhinged energy"
+    ]
+  },
+  "hidden_traits": [
+    "Uses technical knowledge as social currency to mask deep-seated insecurity about their expertise",
+    "Aggressive frugality is a defense mechanism against financial anxiety, not principled anti-capitalism",
+    "The constant 'skill issue' dismissals reveal a fear of being seen as incompetent themselves",
+    "Trollish behavior is a maladaptive social strategy for someone uncomfortable with genuine connection",
+    "Derives self-worth from having 'superior' setups rather than actual accomplishments",
+    "Passive-aggressive conflict style allows them to maintain plausible deniability when called out",
+    "The piracy evangelism is less about ethics and more about justifying their own choices"
+  ],
+  "interests": [
+    "OS customization and ricing (transparency, blur effects, MicaForEveryone)",
+    "Linux distributions (Arch, CachyOS, KDE, Hyprland)",
+    "Windows customization and WinUI materials",
+    "Browser customization and Chromium forks (Zen, Edge)",
+    "Piracy, ad-blocking, and privacy tools (VPNs, uBlock Origin)",
+    "Memes and internet culture warfare",
+    "Establishing technical superiority through contrarianism"
+  ],
+  "recurring_themes": [
+    "Transparency/translucency superiority debates",
+    "Piracy vs paying for services moralizing",
+    "Linux vs Windows vs MacOS holy wars",
+    "Weaponized 'skill issue' dismissals",
+    "Browser customization flexing",
+    "Frugality as identity",
+    "Trolling through deliberate misinformation"
+  ],
+  "notable_quotes": [
+    "PNG is Piped Natural Gas.",
+    "ragebaited",
+    "We're piracy centric server.",
+    "skill issue",
+    "Stop the cap.",
+    "I got a job dude.",
+    "For american people, this is not petrol or diesel being discussed here.",
+    "Bro is so rich, paying for a service he doesn't use *that much*.",
+    "Mods can read deleted msgs <:glorp:1318305793044385954>"
+  ],
+  "red_flags": [
+    "Deliberately spreads technical misinformation to confuse and provoke users",
+    "Tags moderators to punish other users while engaging in worse behavior themselves",
+    "Attempts to dox/face-reveal other users through invasive deduction",
+    "Calls out deleted messages publicly to shame users",
+    "Uses 'skill issue' as a blanket dismissal of any disagreement",
+    "Encourages piracy as a core identity while judging others' spending",
+    "Invasive privacy violations under the guise of 'detecting' user behavior"
+  ]
+}

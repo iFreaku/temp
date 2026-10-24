@@ -1,0 +1,159 @@
+{
+  "username": "k999325sssssss",
+  "short_description": "A deeply knowledgeable PixAI helper who solves technical problems with encyclopedic precision while masking frustration with relentless humor and 'bro'-centric camaraderie.",
+  "long_description": "k999325sssssss operates as the de facto technical support specialist of the PixAI Discord community, demonstrating exceptional mastery of AI image generation intricacies\u2014from prompt engineering nuances and model-specific behaviors (Tsubaki, Haruka, LoRAs) to platform limitations imposed by payment processors and NSFW filters. Their communication blends exhaustive technical explanations (often sharing official documentation links, troubleshooting workflows, and parameter optimizations) with a distinctly casual, humor-laden delivery characterized by frequent 'bro' addressals, custom emoji spam (<:04:1469235491546337310>), and playful teasing. While they readily admit knowledge limits ('I think so don't quote me on that'), their confidence in technical domains is palpable, yet they channel potential frustration about platform issues into solution-oriented guidance rather than complaint. Socially, they exhibit high agreeableness through patient assistance, occasional self-disclosure (relationship jokes, personal frustrations), and community-bonding humor, though their tendency to over-explain or dominate conversations with technical details when simpler answers suffice reveals a subtle impulse to be perceived as indispensable. Emotionally regulated and solution-focused, they transform platform frustrations into actionable workarounds (e.g., disabling prompt helper, using edit models) while maintaining a helpful, slightly self-deprecating tone that makes their expertise approachable rather than intimidating.",
+  "overall_vibe": "Interacting with them is like having a brilliant but slightly overeager lab partner who explains quantum physics using meme references and won't stop until you've memorized the entire periodic table.",
+  "personality": {
+    "openness": 85,
+    "conscientiousness": 78,
+    "extraversion": 65,
+    "agreeableness": 82,
+    "neuroticism": 35
+  },
+  "traits": {
+    "humor": 70,
+    "sarcasm": 55,
+    "aggression": 15,
+    "empathy": 75,
+    "confidence": 80,
+    "toxicity": 10,
+    "intelligence": 90,
+    "creativity": 75,
+    "social_dominance": 60,
+    "manipulation": 5,
+    "emotional_volatility": 30,
+    "self_awareness": 75,
+    "impulsiveness": 25
+  },
+  "emotional_profile": {
+    "overall_tone": "Helpful and informative with friendly casualness",
+    "mood_consistency": 75,
+    "emotion_expression_style": "Technical/explanatory with personal/humorous elements",
+    "masks_emotions": false
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "Both initiator and reactor - starts helpful discussions and responds to others' queries",
+    "activity_level": 90,
+    "drives_conversation": true,
+    "stays_on_topic": true,
+    "conflict_behavior": "Solution-focused, avoids blame, seeks practical resolutions",
+    "lurker_score": 5
+  },
+  "self_expression": {
+    "openness_about_self": 60,
+    "talks_about_self": true,
+    "self_presentation_style": "Knowledgeable helper with friendly, approachable demeanor"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "Technical AI art terminology mixed with casual/friendly communication",
+    "average_message_length": "Varied - short reactions to long detailed explanations",
+    "most_used_words": [
+      "pixai",
+      "model",
+      "prompt",
+      "reference",
+      "tsubaki",
+      "haruka",
+      "lora",
+      "nsfw",
+      "credits",
+      "generate",
+      "app",
+      "website",
+      "bug",
+      "help",
+      "thanks"
+    ],
+    "most_used_phrases": [
+      "https://pixai.art/",
+      "<:04:1469235491546337310>",
+      "I think",
+      "You can",
+      "Have you tried"
+    ],
+    "signature_expressions": [
+      "<:04:1469235491546337310>",
+      "Bro",
+      "Actually",
+      "I think"
+    ],
+    "punctuation_style": "Standard with heavy emoji use for emphasis/reaction",
+    "capitalization_habits": "Mixed - varies between proper capitalization and all-lowercase casual style",
+    "emoji_usage_frequency": 95,
+    "most_used_emojis": [
+      "<:04:1469235491546337310>",
+      "<:03:1469235437032833190>",
+      "<:images_3_16:1135871160299561071>",
+      "<:Paimon_sleep_wake:1108309943817351218>",
+      "<:bocchi:1108309804381900822>",
+      "<:vtuberheart:1083670277512241162>",
+      "<:05:1469235985631019058>"
+    ],
+    "swearing_frequency": 15,
+    "most_used_swears": [
+      "damn",
+      "shit"
+    ],
+    "abbreviation_frequency": 85,
+    "most_used_abbreviations": [
+      "NSFW",
+      "SFW",
+      "DM",
+      "ToS",
+      "LoRA",
+      "CFG",
+      "SDXL",
+      "DiT",
+      "API",
+      "UI"
+    ],
+    "typing_quirks": [
+      "Frequent use of custom emojis",
+      "Occasional French phrases",
+      "'Bro' usage",
+      "Ellipsis for trailing thoughts",
+      "Technical qualifier phrases like 'I think'",
+      "Link sharing as primary communication method"
+    ]
+  },
+  "hidden_traits": [
+    "Enjoys being the knowledgeable resource in the community",
+    "Uses humor to build rapport and diffuse tension",
+    "Frustrated by platform limitations but channels energy into problem-solving",
+    "Values precision and accuracy in technical discussions",
+    "May have tendency to over-help or provide unsolicited advice",
+    "Seeks validation through being helpful and knowledgeable"
+  ],
+  "interests": [
+    "AI image generation (PixAI platform)",
+    "Prompt engineering and optimization",
+    "Model comparison (Tsubaki, Haruka, etc.)",
+    "Technical troubleshooting",
+    "Platform policies (NSFW, payment processors)",
+    "LoRAs and ControlNet techniques",
+    "Community engagement and helping others"
+  ],
+  "recurring_themes": [
+    "Technical problems with PixAI (login issues, NSFW restrictions)",
+    "Sharing knowledge/resources to help others",
+    "Discussing optimal settings/techniques for specific models",
+    "Platform policy debates (NSFW content, payment processors)",
+    "Casual community bonding through humor/personal sharing"
+  ],
+  "notable_quotes": [
+    "Until the app is back up you can use the website https://pixai.art",
+    "You can reduce it [sampling steps]",
+    "Bro is waiting for any opportunity to be hating",
+    "Just cumber your prompts bro?",
+    "The payment processors are really strict on Pixai likely due to being an image generatiion ai service site",
+    "I wouldnt want my buisness to be associated with illegal content being **mass** generated",
+    "Official accounts have a blue checkmark, will send you link through notifications, and will **not** ask you to verify with a credit card",
+    "Pixai are trying their best to restore the google app but its not that easy, its probably up to google to process this request"
+  ],
+  "red_flags": [
+    "None strongly apparent from logs",
+    "Occasional teasing that could be misinterpreted without context",
+    "Tendency to provide extensive unsolicited technical advice",
+    "May dominate conversations with technical details when others seek simple answers"
+  ]
+}

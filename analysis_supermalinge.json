@@ -1,0 +1,97 @@
+{
+  "username": "supermalinge",
+  "short_description": "A minimalist communicator who treats Discord like a command line interface.",
+  "long_description": "Supermalinge demonstrates an extremely utilitarian communication style focused purely on information exchange with zero social fluff. Their messages are brief, direct, and lack any emotional expression or personal touch. This suggests a highly task-oriented personality that views conversation as a means to an end rather than a social activity. They show no interest in social bonding, humor, or emotional connection, operating more like a bot than a human in social spaces.",
+  "overall_vibe": "Talking to a search engine that occasionally posts cat GIFs.",
+  "personality": {
+    "openness": 20,
+    "conscientiousness": 80,
+    "extraversion": 10,
+    "agreeableness": 30,
+    "neuroticism": 5
+  },
+  "traits": {
+    "humor": 5,
+    "sarcasm": 0,
+    "aggression": 15,
+    "empathy": 10,
+    "confidence": 75,
+    "toxicity": 25,
+    "intelligence": 70,
+    "creativity": 40,
+    "social_dominance": 35,
+    "manipulation": 15,
+    "emotional_volatility": 5,
+    "self_awareness": 30,
+    "impulsiveness": 20
+  },
+  "emotional_profile": {
+    "overall_tone": "Neutral/utilitarian",
+    "mood_consistency": 95,
+    "emotion_expression_style": "Suppressed/nonexistent",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "Reactor",
+    "activity_level": 25,
+    "drives_conversation": false,
+    "stays_on_topic": true,
+    "conflict_behavior": "Dismissive",
+    "lurker_score": 85
+  },
+  "self_expression": {
+    "openness_about_self": 5,
+    "talks_about_self": false,
+    "self_presentation_style": "Minimalist/impersonal"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "Technical/concise",
+    "average_message_length": "Very short",
+    "most_used_words": [
+      "technical",
+      "forbidden"
+    ],
+    "most_used_phrases": [
+      "is it technical?",
+      "then its"
+    ],
+    "signature_expressions": [],
+    "punctuation_style": "Minimal",
+    "capitalization_habits": "Lowercase",
+    "emoji_usage_frequency": 0,
+    "most_used_emojis": [],
+    "swearing_frequency": 0,
+    "most_used_swears": [],
+    "abbreviation_frequency": 10,
+    "most_used_abbreviations": [
+      "idc"
+    ],
+    "typing_quirks": [
+      "no capitalization",
+      "concise phrasing"
+    ]
+  },
+  "hidden_traits": [
+    "Extreme emotional detachment",
+    "Prefers digital interaction over human connection",
+    "Views conversation as transactional"
+  ],
+  "interests": [
+    "Technical topics",
+    "Cat content"
+  ],
+  "recurring_themes": [
+    "Information exchange",
+    "Rule compliance"
+  ],
+  "notable_quotes": [
+    "is it technical?",
+    "then its",
+    "idc"
+  ],
+  "red_flags": [
+    "Emotional unavailability",
+    "Dismissive communication style",
+    "Zero social engagement"
+  ]
+}

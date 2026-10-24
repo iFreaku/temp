@@ -1,0 +1,161 @@
+{
+  "username": "goglol",
+  "short_description": "A frustrated PixAI power-user who mixes technical advice with bitter rants about platform changes and VPN woes.",
+  "long_description": "goglol is a detail-oriented, technically savvy user who frequently discusses PixAI's tagging system, VPN access issues, and AI generation tips. He expresses strong frustration over recent platform changes, especially the removal of the old tag system, and often shares personal workarounds for credit earning and generation settings. While he offers helpful advice and shows empathy toward fellow Russian-speaking users facing similar obstacles, his tone is frequently laced with sarcasm, profanity, and a sense of moral outrage toward both PixAI and Russian censorship bodies (RKN). He oscillates between English and Russian, mixes bold markup and ellipses for emphasis, and occasionally uses emojis like \ud83d\ude05. Overall, he appears as a knowledgeable yet disillusioned community member who seeks validation for his concerns while trying to help others navigate the platform's shortcomings.",
+  "overall_vibe": "Talking to goglol is like getting a detailed tutorial from someone who\u2019s simultaneously angry at the software and trying to keep the conversation productive.",
+  "personality": {
+    "openness": 55,
+    "conscientiousness": 80,
+    "extraversion": 55,
+    "agreeableness": 45,
+    "neuroticism": 65
+  },
+  "traits": {
+    "humor": 45,
+    "sarcasm": 60,
+    "aggression": 40,
+    "empathy": 50,
+    "confidence": 75,
+    "toxicity": 20,
+    "intelligence": 80,
+    "creativity": 55,
+    "social_dominance": 50,
+    "manipulation": 10,
+    "emotional_volatility": 45,
+    "self_awareness": 60,
+    "impulsiveness": 20
+  },
+  "emotional_profile": {
+    "overall_tone": "frustrated yet analytical",
+    "mood_consistency": 55,
+    "emotion_expression_style": "expressive with emphasis, profanity, occasional emojis",
+    "masks_emotions": false
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "initiator",
+    "activity_level": 70,
+    "drives_conversation": true,
+    "stays_on_topic": true,
+    "conflict_behavior": "assertive but non-confrontational",
+    "lurker_score": 20
+  },
+  "self_expression": {
+    "openness_about_self": 70,
+    "talks_about_self": true,
+    "self_presentation_style": "detail-oriented, frustrated expert"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "technical, mixed Russian-English, expressive",
+    "average_message_length": "medium",
+    "most_used_words": [
+      "PixAI",
+      "\u0442\u0435\u0433\u043e\u0432",
+      "\u0441\u0438\u0441\u0442\u0435\u043c\u0430",
+      "\u043a\u0430\u0440\u0442\u0438\u043d\u043e\u043a",
+      "\u043c\u043e\u0438",
+      "\u0437\u0430\u0433\u043e\u0442\u043e\u0432\u043a\u0438",
+      "\u043d\u0443\u0436\u043d\u043e",
+      "\u0432\u0441\u0451",
+      "\u0431\u044b\u043b\u043e",
+      "\u0442\u0435\u043f\u0435\u0440\u044c",
+      "VPN",
+      "\u0441\u0442\u0440\u0430\u043d\u0430",
+      "AI",
+      "\u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430",
+      "\u0434\u0443\u043c\u0430\u044e",
+      "\u043f\u043e\u043d\u0438\u043c\u0430\u044e",
+      "\u043c\u043e\u0433\u0443",
+      "\u0432\u0438\u0434\u0435\u0442\u044c",
+      "\u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e",
+      "\u043a\u0430\u043a"
+    ],
+    "most_used_phrases": [
+      "\u042f \u043c\u043e\u0433\u0443 \u043f\u043e\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u043e\u0432\u0430\u0442\u044c \u0431\u044b\u0442\u044c \u0433\u043e\u0442\u043e\u0432\u044b\u043c \u043a \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e\u0439 \u043f\u0435\u0440\u0435\u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0438 \u0442\u043e\u0433\u043e \u0436\u0435 \u043f\u0440\u043e\u043c\u0442\u0430",
+      "\u041c\u043e\u0436\u043d\u043e \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c 10K \u043a\u0440\u0435\u0434\u0438\u0442\u043e\u0432 \u0437\u0430 10 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u043a\u0430\u0440\u0442\u0438\u043d\u043e\u043a",
+      "\u0412 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0438 PixAI \u043c\u043e\u0436\u043d\u043e \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0440\u0435\u043a\u043b\u0430\u043c\u0443 8-10 \u0440\u0430\u0437 \u0438 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0434\u043e 40-50K \u043a\u0440\u0435\u0434\u0438\u0442\u043e\u0432 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e",
+      "\u0414\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u043e\u0431\u0438\u0434\u043d\u043e \u0438 \u043f\u0430\u0440\u0448\u0438\u0432\u043e, \u0447\u0442\u043e PixAI \u0440\u0435\u0448\u0438\u043b\u0438 \u043f\u0440\u043e\u0441\u0442\u043e \u043f\u043e\u0445\u043e\u0440\u043e\u043d\u0438\u0442\u044c \u0441\u0442\u0430\u0440\u0443\u044e \u0441\u0438\u0441\u0442\u0435\u043c\u0443 \u0442\u0435\u0433\u043e\u0432 \u043a\u0430\u0440\u0442\u0438\u043d\u043e\u043a.",
+      "\u0412\u0441\u0435 \u043c\u043e\u0438 \u0434\u0435\u0442\u0430\u043b\u044c\u043d\u043e \u043f\u0440\u043e\u0434\u0443\u043c\u0430\u043d\u043d\u044b\u0435 \u0442\u0435\u0433\u0438 \u043a \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0430\u043c \u0441 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430\u043c\u0438 (\u043d\u0430\u0434 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u044f \u0440\u0435\u0430\u043b\u044c\u043d\u043e \u0442\u0440\u0443\u0434\u0438\u043b\u0441\u044f) \u2014 \u043f\u0440\u043e\u0441\u0442\u043e \u0441\u0431\u0440\u043e\u0441\u0438\u043b\u0438\u0441\u044c **\u0432\u0441\u0435 \u0434\u043e \u0435\u0434\u0438\u043d\u043e\u0439** \u0434\u043e \u043a\u0430\u043a\u043e\u0439-\u0442\u043e \u0441\u0442\u043e\u043a\u043e\u0432\u043e\u0439 \u0430\u0432\u0442\u043e\u0441\u0433\u0435\u043d\u0435\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u0445\u0435\u0440\u043d\u0438, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0435\u0434\u0432\u0430 \u043b\u0438 \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0438\u2026",
+      "\u0418 \u0434\u0430\u0436\u0435 \u043c\u043e\u0438 \u0437\u0430\u0433\u043e\u0442\u043e\u0432\u043a\u0438 \u0442\u0435\u0433\u043e\u0432 **\u0442\u0435\u043f\u0435\u0440\u044c \u0442\u043e\u0436\u0435** \u043d\u0435 \u043d\u0443\u0436\u043d\u044b, \u043f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u044f \u0431\u0430\u043d\u0430\u043b\u044c\u043d\u043e \u043d\u0435 \u043c\u043e\u0433\u0443 \u043f\u0440\u043e\u0441\u0442\u043e \u0438\u0445 \u0432\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0434\u0430\u0436\u0435 \u043d\u0430 \u043d\u043e\u0432\u044b\u0435 \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0438 \u043f\u0440\u0438 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438: \u0440\u0430\u043d\u044c\u0448\u0435 \u044f \u043c\u043e\u0433 \u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0438 \u0432\u0441\u0442\u0430\u0432\u043b\u044f\u0442\u044c \u0438\u0445, \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044f \u0438\u0445 \u0432\u0441\u0435 \u0440\u0430\u0437\u043e\u043c \u0447\u0435\u0440\u0435\u0437 Enter (\u0447\u0442\u043e \u0431\u044b\u043b\u043e \u043a\u0440\u0430\u0439\u043d\u0435 \u0443\u0434\u043e\u0431\u043d\u043e), \u043d\u043e \u0442\u0435\u043f\u0435\u0440\u044c \u043d\u0435\u0442\u0443 \u0434\u0430\u0436\u0435 \u0438 \u044d\u0442\u043e\u0433\u043e."
+    ],
+    "signature_expressions": [
+      "**\u0437\u0430\u0447\u0435\u043c** \u0432\u043e\u043e\u0431\u0449\u0435 \u043d\u0443\u0436\u043d\u043e \u0431\u044b\u043b\u043e \u0435\u0451 \u0442\u0440\u043e\u0433\u0430\u0442\u044c.",
+      "**\u0432\u0441\u0435 \u0434\u043e \u0435\u0434\u0438\u043d\u043e\u0439**",
+      "**\u0442\u0435\u043f\u0435\u0440\u044c \u0442\u043e\u0436\u0435**",
+      "**Samplings Steps**",
+      "**\u043c\u043e\u0451**\u2026 **\u043d\u0435** \u0432\u044b\u0433\u043b\u044f\u0434\u0438\u0442, \u043a\u0430\u043a \u0418\u0418",
+      "**I do** wanted to just point out fleetingly",
+      "\u0431\u043b\u044f\u0442\u044c"
+    ],
+    "punctuation_style": "mix of ellipsis, em dashes, parentheses, bold markup, occasional emojis",
+    "capitalization_habits": "standard sentence case with occasional bold emphasis",
+    "emoji_usage_frequency": 5,
+    "most_used_emojis": [
+      "\ud83d\ude05"
+    ],
+    "swearing_frequency": 10,
+    "most_used_swears": [
+      "\u0431\u043b\u044f\u0442\u044c"
+    ],
+    "abbreviation_frequency": 20,
+    "most_used_abbreviations": [
+      "VPN",
+      "AI",
+      "10K",
+      "40-50K"
+    ],
+    "typing_quirks": [
+      "bold markup (**text**)",
+      "ellipsis (\u2026) ",
+      "em dash (\u2014)",
+      "language switching (Russian/English)",
+      "occasional use of 'lol'"
+    ]
+  },
+  "hidden_traits": [
+    "perfectionism regarding personal tagging system",
+    "need for validation and reassurance from others",
+    "tendency to see conspiracies or hidden motives behind platform changes",
+    "high sense of injustice and moral outrage",
+    "conflict between desire to help others and feeling isolated"
+  ],
+  "interests": [
+    "PixAI",
+    "AI generation",
+    "tagging systems",
+    "VPN",
+    "credit earning",
+    "generation tips",
+    "AI slop",
+    "ragebaiting",
+    "community dynamics",
+    "Russian internet censorship",
+    "RKN"
+  ],
+  "recurring_themes": [
+    "frustration with PixAI changes",
+    "concerns about VPN and access",
+    "advice on generation settings",
+    "critique of AI overuse",
+    "discussion of ragebaiting",
+    "language barrier",
+    "personal tagging loss",
+    "credit earning methods"
+  ],
+  "notable_quotes": [
+    "\u0414\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u043e\u0431\u0438\u0434\u043d\u043e \u0438 \u043f\u0430\u0440\u0448\u0438\u0432\u043e, \u0447\u0442\u043e PixAI \u0440\u0435\u0448\u0438\u043b\u0438 \u043f\u0440\u043e\u0441\u0442\u043e \u043f\u043e\u0445\u043e\u0440\u043e\u043d\u0438\u0442\u044c \u0441\u0442\u0430\u0440\u0443\u044e \u0441\u0438\u0441\u0442\u0435\u043c\u0443 \u0442\u0435\u0433\u043e\u0432 \u043a\u0430\u0440\u0442\u0438\u043d\u043e\u043a.",
+    "\u041e\u043d\u0438 \u0432\u0440\u0430\u0433\u0438, \u0431\u043b\u044f\u0442\u044c, **\u0437\u0434\u0440\u0430\u0432\u043e\u0433\u043e \u0441\u043c\u044b\u0441\u043b\u0430**.",
+    "\u042f \u043c\u043e\u0433\u0443 \u043f\u043e\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u043e\u0432\u0430\u0442\u044c \u0431\u044b\u0442\u044c \u0433\u043e\u0442\u043e\u0432\u044b\u043c \u043a \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e\u0439 \u043f\u0435\u0440\u0435\u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0438 \u0442\u043e\u0433\u043e \u0436\u0435 \u043f\u0440\u043e\u043c\u0442\u0430\u2026",
+    "\u041c\u043e\u0436\u043d\u043e \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c 10K \u043a\u0440\u0435\u0434\u0438\u0442\u043e\u0432 \u0437\u0430 10 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u043a\u0430\u0440\u0442\u0438\u043d\u043e\u043a\u2026",
+    "\u0412 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0438 PixAI \u043c\u043e\u0436\u043d\u043e \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0440\u0435\u043a\u043b\u0430\u043c\u0443 8-10 \u0440\u0430\u0437 \u0438 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0434\u043e 40-50K \u043a\u0440\u0435\u0434\u0438\u0442\u043e\u0432 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e",
+    "I don't really get it\u2026",
+    "I think that, unfortunately, it's only a matter of time before it reaches **your** country, too\u2026",
+    "I could sense from your very first messages that this is about ragebaiting.",
+    "It feels quite strange: to fully knowingly join a community that is entirely dedicated to AI-generated content, and then end up peddling anti-AI rhetoric in that very community.",
+    "\u0411\u044b\u043b\u043e \u0442\u0430\u043a \u0443\u0434\u043e\u0431\u043d\u043e \u043f\u043e \u0434\u0432\u043e\u0439\u043d\u043e\u043c\u0443 \u043a\u043b\u0438\u043a\u0443 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0442\u044c \u043f\u043e\u043b\u043d\u043e\u0440\u0430\u0437\u043c\u0435\u0440 \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0438 \u0438 \u0441\u0440\u0430\u0437\u0443 \u0436\u0435 \u0434\u0435\u043b\u0430\u0442\u044c \u0431\u043b\u0438\u0437\u043a\u0438\u0439 zoom \u043d\u0430 \u043d\u0435\u0451\u2026"
+  ],
+  "red_flags": [
+    "propensity to attribute malicious intent to platform updates without evidence",
+    "frequent use of strong language towards organizations (e.g., calling RKN enemies)",
+    "occasional conspiracy thinking about VPN forced usage"
+  ]
+}

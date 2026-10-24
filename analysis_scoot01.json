@@ -1,0 +1,202 @@
+{
+  "username": "scoot01",
+  "short_description": "Chaotically online, chronically sleep-deprived 18-year-old AI chatbot creator who treats his Discord server like a weird found family and spends half his time rambling about isekai reincarnation and taming demons with head pats.",
+  "long_description": "scoot01 is a chronically online, playful 18-year-old from Virginia, US, set to start a psychology degree in August. He spends most of his time on Discord engaging in a tight-knit friend group with running gags about being the group's 'mother', being falsely labeled as cg15's 'wife', and reincarnating into an isekai where he tames demons with head pats and steak. He's an amateur AI chatbot creator focused on cute, 'healing' character chats for Story Engine, and has spent months tweaking his art style and wrestling with model guidelines, credit limits, and release perfectionism. He's learning Korean and Japanese from online friends, recommends Lingory for Korean study, and jokes about moving to Nepal with his friend maronberrys. His communication style is hyper, fragmented, and meme-heavy, with frequent typos, strikethrough jokes, all-caps yelling, and custom server emojis. He's deeply affectionate with his friends, offers unsolicited support (like teaching arqi929 Korean), and gets flustered by playful teasing about his soft, romantic side (his love of childhood friend tropes, Sayori, and cute Sanrio characters) which he covers up with chaotic, sexualized humor. He's constantly tired, takes frequent naps, stays up until 2am, and complains about brainrot, Discord glitches, and bad internet. He's self-deprecating, calling himself 'stoop' and criticizing his own art and writing, but lights up when his friends compliment his work. He has no real IRL social life outside of his online friends, and is anxious about his upcoming college start and his ability to finish his creative projects.",
+  "overall_vibe": "Talking to him is like trying to keep up with a hyperactive, sleep-deprived weeb who jumps between AI coding rants, isekai roleplay, and flustered denials of being someone's wife every 30 seconds.",
+  "personality": {
+    "openness": 92,
+    "conscientiousness": 48,
+    "extraversion": 72,
+    "agreeableness": 85,
+    "neuroticism": 58
+  },
+  "traits": {
+    "humor": 88,
+    "sarcasm": 65,
+    "aggression": 10,
+    "empathy": 78,
+    "confidence": 55,
+    "toxicity": 5,
+    "intelligence": 75,
+    "creativity": 90,
+    "social_dominance": 30,
+    "manipulation": 5,
+    "emotional_volatility": 50,
+    "self_awareness": 70,
+    "impulsiveness": 80
+  },
+  "emotional_profile": {
+    "overall_tone": "Playful, chaotic, affectionate, and lightly self-deprecating, with frequent shifts between excitement, frustration, and flustered embarrassment",
+    "mood_consistency": 40,
+    "emotion_expression_style": "Extremely open and unfiltered, using exaggerated emojis, all-caps yelling, and direct statements to express even embarrassing or vulnerable feelings",
+    "masks_emotions": false
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "Equal parts initiator and reactor, frequently starting new conversations and responding to others' messages at a high rate",
+    "activity_level": 85,
+    "drives_conversation": true,
+    "stays_on_topic": false,
+    "conflict_behavior": "Avoids real conflict entirely, responding to teasing with playful banter, flustered deflection, or changing the subject",
+    "lurker_score": 10
+  },
+  "self_expression": {
+    "openness_about_self": 75,
+    "talks_about_self": true,
+    "self_presentation_style": "Leans into a chaotic, dorky weeb persona, using self-deprecation, meme references, and inside jokes to frame his personality, while hiding his softer, more romantic side behind edgy humor"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "Extremely informal, internet-slang heavy, with frequent anime, gaming, and AI chatbot jargon, plus random Korean/Japanese phrases",
+    "average_message_length": "Mostly 1-2 short, fragmented sentences, with occasional 3+ sentence paragraphs about his projects or IRL updates",
+    "most_used_words": [
+      "scoot",
+      "berry",
+      "beary",
+      "cg",
+      "roamer",
+      "gosu",
+      "chat",
+      "story",
+      "model",
+      "cute",
+      "im",
+      "dont",
+      "wanna",
+      "yeah",
+      "gn",
+      "hi",
+      "lol",
+      "xd",
+      "lmao",
+      "isekai"
+    ],
+    "most_used_phrases": [
+      "hi beary",
+      "gn",
+      "im funny",
+      "I wanna",
+      "good morning/night",
+      "I suck ass at",
+      "I'm tryna reincarnate in another world xd",
+      "BERRY HI",
+      "not wife",
+      "I'm stoop",
+      "its 2am so yeah...",
+      "I want to be a gosu",
+      "I love oatmeal",
+      "you weren't here"
+    ],
+    "signature_expressions": [
+      "I'm tryna reincarnate in another world xd",
+      "taming [demons/people] with head pats",
+      "gosu",
+      "not wife",
+      "scoot is the best",
+      "I'm stoop",
+      "BERRY HI",
+      "brainrot",
+      "mother [as a title for himself/friends]",
+      "cute doggies",
+      "I love oatmeal"
+    ],
+    "punctuation_style": "Heavy use of ellipses, exclamation points, strikethrough (~~text~~) for jokes, hashtags (#) for emphasis, and all-caps for yelling",
+    "capitalization_habits": "Almost exclusively lowercase, with random all-caps for emphasis and occasional proper capitalization at the start of sentences",
+    "emoji_usage_frequency": 9,
+    "most_used_emojis": [
+      "<:aru1:1423166074022662185>",
+      "<:bruhfish:1023364421592023060>",
+      "<:Sobbing:1197186410541744179>",
+      "<:CAP:687404360262615042>",
+      "<:KEKW:784423340869550100>",
+      "<a:yay:1449433012042465310>",
+      "<:DEAD:1198695606340812891>",
+      "<:aru3:1423166109389160458>",
+      "<:wideblush:583615488026869769>"
+    ],
+    "swearing_frequency": 4,
+    "most_used_swears": [
+      "fuck",
+      "shit",
+      "damn",
+      "hell",
+      "wtf"
+    ],
+    "abbreviation_frequency": 7,
+    "most_used_abbreviations": [
+      "gn",
+      "im",
+      "dont",
+      "wanna",
+      "lol",
+      "xd",
+      "lmao",
+      "fr",
+      "ngl"
+    ],
+    "typing_quirks": [
+      "Frequent intentional misspellings (stoop for stupid, paday for payday, tomano for tomorrow)",
+      "Interchangeable use of 'berry' and 'beary' for friend maronberrys",
+      "Heavy use of strikethrough for ironic/joking text",
+      "Frequent fragmented, incomplete messages followed by follow-ups",
+      "Random insertion of Korean/Japanese phrases and typos for foreign words",
+      "Almost no proper capitalization outside of all-caps yelling"
+    ]
+  },
+  "hidden_traits": [
+    "Covers up his soft, romantic love of cute and healing content with chaotic, sexualized humor to avoid being seen as soft",
+    "Insecure about his creative work (art, chatbot writing) despite being passionate about it, leading to chronic perfectionism and delayed releases",
+    "Seeks validation from his online friend group as a substitute for IRL social connection, as he is currently stuck at home with no local social life",
+    "Has a latent savior/maternal complex, leaning into the 'mother' title to his friends to feel needed while avoiding vulnerability about his own need for care",
+    "Is secretly anxious about his upcoming college start and future creative career, distracting himself with memes, naps, and chaotic banter to avoid thinking about it",
+    "Overcompensates for being labeled 'soft' or 'feminine' by his friends (who call him wife/mother) by making aggressive, sexualized jokes and denying the labels"
+  ],
+  "interests": [
+    "AI chatbot creation (Story Engine, NovelAI, lorebook design, prompt engineering)",
+    "Anime/manga (childhood friend trope, Sayori, Sanrio, Persona series, isekai)",
+    "Gaming (Marvel Rivals, Battlefield, Yakuza, Arknights, HSR, Payday, Cyberpunk, Nintendo Direct)",
+    "Creative writing (original stories, chatbot character lore)",
+    "Language learning (Korean, Japanese, Nepali)",
+    "Psychology (upcoming college major)",
+    "ASMR",
+    "Fortune telling",
+    "Internet meme culture",
+    "Cute/healing content",
+    "Tuxedo Sam (Sanrio)"
+  ],
+  "recurring_themes": [
+    "Being labeled as cg15's 'wife' or the group's 'mother'",
+    "Isekai reincarnation and taming characters with head pats",
+    "Cute/healing content and chatbot development",
+    "Chronic sleep deprivation and brainrot",
+    "Gooner and sexualized banter",
+    "Loving oatmeal",
+    "Being from Virginia and wanting to move abroad",
+    "Perfectionism around creative projects",
+    "Inside jokes with his core friend group (berry, roamer, cg, arqi, byrn)",
+    "Struggles with AI model guidelines and credit limits"
+  ],
+  "notable_quotes": [
+    "I love oatmeal",
+    "I'm tryna reincarnate in another world xd",
+    "taming them with head pats",
+    "not wife",
+    "I'm stoop",
+    "BERRY HI",
+    "scoot is the best",
+    "I want to be a gosu",
+    "If you make it r'qi sign me as your manager",
+    "I had to break it to you I don't think there was a writing about letting chinchillas crack",
+    "You'd all be gone long before if that was the case\ud83d\ude2d",
+    "I have to take naps when I get home else I don't function anymore",
+    "I'm strong boi don't need no umbrella",
+    "I can't use the GIF NOO",
+    "I MEANT KISS autocorrect",
+    "If the butterfly effect existed then I would be happy rn",
+    "One day I'll find the right style for meeeeee then I'll make the best chat everrrrrr~"
+  ],
+  "red_flags": [
+    "Participates in pervasive sexualized banter despite being 18-19, exposing him to inappropriate dynamics and content in a server with older users",
+    "Severe perfectionism and procrastination that has delayed his first major creative release for over 2 months and may jeopardize his ability to complete upcoming college coursework (90 lectures to finish in 20-30 days)",
+    "Chronic sleep deprivation and prioritization of online social interaction over IRL responsibilities, with frequent mentions of napping, staying up until 2am, and neglecting schoolwork to be on Discord",
+    "Tendency to overpromise support or project deliverables (teaching Korean, finishing stories, releasing chatbots) without follow-through due to distraction or shifting priorities"
+  ]
+}

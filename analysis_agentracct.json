@@ -1,0 +1,124 @@
+{
+  "username": "agentracct",
+  "short_description": "A 16-year-old developer with strong opinions on open-source software who oscillates between technical discussions and self-deprecating humor.",
+  "long_description": "agentracct presents as a young but passionate developer who heavily advocates for open-source software and freely accessible tools, crediting them for their own development skills. They demonstrate technical knowledge but frequently undermine themselves with self-deprecating comments about their abilities and financial situation. Their communication style is direct yet defensive, often justifying their positions while acknowledging limitations. They show patterns of seeking validation while simultaneously projecting confidence in their technical beliefs.",
+  "overall_vibe": "Talking to them feels like mentoring a bright but insecure intern who's constantly trying to prove they belong in the room.",
+  "personality": {
+    "openness": 75,
+    "conscientiousness": 60,
+    "extraversion": 45,
+    "agreeableness": 65,
+    "neuroticism": 70
+  },
+  "traits": {
+    "humor": 60,
+    "sarcasm": 40,
+    "aggression": 20,
+    "empathy": 55,
+    "confidence": 45,
+    "toxicity": 15,
+    "intelligence": 70,
+    "creativity": 65,
+    "social_dominance": 30,
+    "manipulation": 25,
+    "emotional_volatility": 50,
+    "self_awareness": 65,
+    "impulsiveness": 40
+  },
+  "emotional_profile": {
+    "overall_tone": "defensively enthusiastic",
+    "mood_consistency": 60,
+    "emotion_expression_style": "transparent with occasional masking through humor",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "reactor",
+    "activity_level": 55,
+    "drives_conversation": false,
+    "stays_on_topic": true,
+    "conflict_behavior": "defensive justification",
+    "lurker_score": 40
+  },
+  "self_expression": {
+    "openness_about_self": 70,
+    "talks_about_self": true,
+    "self_presentation_style": "self-deprecating but knowledgeable"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "technical with casual interjections",
+    "average_message_length": "medium",
+    "most_used_words": [
+      "free",
+      "open",
+      "source",
+      "dev",
+      "shit",
+      "lmfao",
+      "project",
+      "client",
+      "technical"
+    ],
+    "most_used_phrases": [
+      "I would not be",
+      "matter of factly",
+      "what a mindset"
+    ],
+    "signature_expressions": [
+      "lmfao",
+      "\ud83d\ude2d",
+      "aint now way"
+    ],
+    "punctuation_style": "mixed",
+    "capitalization_habits": "mostly lowercase",
+    "emoji_usage_frequency": 30,
+    "most_used_emojis": [
+      "\ud83d\ude2d"
+    ],
+    "swearing_frequency": 40,
+    "most_used_swears": [
+      "shit"
+    ],
+    "abbreviation_frequency": 35,
+    "most_used_abbreviations": [
+      "FOSS",
+      "SWE",
+      "API"
+    ],
+    "typing_quirks": [
+      "repetitive letters for emphasis",
+      "inconsistent capitalization"
+    ]
+  },
+  "hidden_traits": [
+    "insecurity about technical abilities",
+    "financial anxiety",
+    "desire for validation",
+    "defensiveness about open-source advocacy",
+    "imposter syndrome"
+  ],
+  "interests": [
+    "open-source software",
+    "web development",
+    "programming tools",
+    "portfolio building",
+    "technical recruitment"
+  ],
+  "recurring_themes": [
+    "free vs paid software",
+    "self-improvement",
+    "technical validation",
+    "financial limitations",
+    "career development"
+  ],
+  "notable_quotes": [
+    "I would not be 1/60th of the dev I am today, had stuff like Jetbrains, VSCode, and Visual Studio not been free and open source",
+    "I am just broke",
+    "matter of factly, most of my knowledge around javascript comes from debugging the shit source code that is VSCode lmfao"
+  ],
+  "red_flags": [
+    "overly defensive about free software",
+    "frequent self-deprecation",
+    "potential entitlement mindset",
+    "inconsistent self-presentation"
+  ]
+}

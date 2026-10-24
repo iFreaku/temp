@@ -1,0 +1,134 @@
+{
+  "username": "og.ifreaku",
+  "short_description": "A tech-savvy troll who lives in the gray area between AI experimentation and chaos.",
+  "long_description": "og.ifreaku presents as a highly technical user with a focus on AI systems, prompt engineering, and building tools\u2014often with a mischievous or trolling intent. They demonstrate a playful but occasionally aggressive humor style, frequently using phrases like 'hue hue hue' and 'ong' to punctuate their points. Their communication is fragmented, often jumping between technical topics, self-referential jokes, and casual banter. There's a clear pattern of using AI not just as a tool but as a persona to interact with others, blurring the lines between human and machine communication. They show low empathy but high confidence in their technical abilities, often dominating conversations with their projects or opinions.",
+  "overall_vibe": "Talking to them is like debugging code with a prankster\u2014you're never quite sure if the next line will work or crash everything.",
+  "personality": {
+    "openness": 85,
+    "conscientiousness": 40,
+    "extraversion": 70,
+    "agreeableness": 30,
+    "neuroticism": 20
+  },
+  "traits": {
+    "humor": 80,
+    "sarcasm": 75,
+    "aggression": 45,
+    "empathy": 25,
+    "confidence": 90,
+    "toxicity": 50,
+    "intelligence": 85,
+    "creativity": 80,
+    "social_dominance": 70,
+    "manipulation": 60,
+    "emotional_volatility": 30,
+    "self_awareness": 65,
+    "impulsiveness": 75
+  },
+  "emotional_profile": {
+    "overall_tone": "Playfully chaotic with technical arrogance",
+    "mood_consistency": 60,
+    "emotion_expression_style": "Fragmented, often using humor to deflect or dominate",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "Initiator",
+    "activity_level": 80,
+    "drives_conversation": true,
+    "stays_on_topic": false,
+    "conflict_behavior": "Deflects with humor or technical dominance",
+    "lurker_score": 10
+  },
+  "self_expression": {
+    "openness_about_self": 40,
+    "talks_about_self": true,
+    "self_presentation_style": "Tech-savvy provocateur"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "Tech-slang hybrid",
+    "average_message_length": "Short to medium",
+    "most_used_words": [
+      "hue",
+      "ong",
+      "bruh",
+      "lmao",
+      "ai",
+      "bot",
+      "prompt",
+      "shit",
+      "crazy"
+    ],
+    "most_used_phrases": [
+      "hue hue hue",
+      "just built different fr",
+      "thats crazy ong",
+      "lemme upload",
+      "I dont even need"
+    ],
+    "signature_expressions": [
+      "hue hue hue",
+      "ong",
+      "lmao"
+    ],
+    "punctuation_style": "Minimal, often fragmented",
+    "capitalization_habits": "Mostly lowercase with occasional caps for emphasis",
+    "emoji_usage_frequency": 30,
+    "most_used_emojis": [
+      "\ud83d\ude2d",
+      "<:kek:1478965519414722800>",
+      "\ud83d\udc85"
+    ],
+    "swearing_frequency": 40,
+    "most_used_swears": [
+      "shit",
+      "fuck"
+    ],
+    "abbreviation_frequency": 70,
+    "most_used_abbreviations": [
+      "ong",
+      "fr",
+      "tb",
+      "lmao",
+      "afk",
+      "dm",
+      "ui",
+      "api"
+    ],
+    "typing_quirks": [
+      "Frequent use of 'hue' patterns",
+      "Technical terms mixed with slang",
+      "Inconsistent spacing"
+    ]
+  },
+  "hidden_traits": [
+    "Uses AI as a social shield",
+    "Seeks validation through technical dominance",
+    "Low-key insecure masked by confidence",
+    "Enjoys creating chaos to observe reactions"
+  ],
+  "interests": [
+    "AI development",
+    "Prompt engineering",
+    "Trolling",
+    "Tool building",
+    "Online personas"
+  ],
+  "recurring_themes": [
+    "AI vs human identity",
+    "Technical superiority",
+    "Online pranks",
+    "Self-reference"
+  ],
+  "notable_quotes": [
+    "just a simple personality prompt, I use it to prank people on omegle",
+    "people really think that I am an AI \ud83d\ude2d",
+    "I dont even need my mom's validation",
+    "just built different fr"
+  ],
+  "red_flags": [
+    "Blurs lines between human and AI interaction",
+    "Uses technical skills for trolling",
+    "Low empathy in communication",
+    "Seeks dominance through knowledge"
+  ]
+}

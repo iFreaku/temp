@@ -1,0 +1,127 @@
+{
+  "username": "keyuan8669",
+  "short_description": "A Taiwanese tech worker whose identity crisis is only matched by his struggle with English and obsession with VM security.",
+  "long_description": "keyuan8669 is a technically-minded individual from Taiwan who works in the tech industry (likely at TSMC based on his comments). He demonstrates moderate technical knowledge about virtualization, containers, and AI models but shows significant gaps in English proficiency and cultural awareness. His communication style is direct but often awkward, with frequent code-switching between English and Chinese that creates confusion. He shows patterns of insecurity about his English abilities and national identity, often defensively clarifying he's from Taiwan not mainland China. While he engages in technical discussions, his contributions are frequently misunderstood due to language barriers and cultural references that don't translate well.",
+  "overall_vibe": "Talking to him feels like watching someone try to parallel park a technical conversation while constantly correcting their own GPS.",
+  "personality": {
+    "openness": 65,
+    "conscientiousness": 70,
+    "extraversion": 40,
+    "agreeableness": 55,
+    "neuroticism": 60
+  },
+  "traits": {
+    "humor": 40,
+    "sarcasm": 30,
+    "aggression": 20,
+    "empathy": 50,
+    "confidence": 45,
+    "toxicity": 15,
+    "intelligence": 65,
+    "creativity": 50,
+    "social_dominance": 30,
+    "manipulation": 20,
+    "emotional_volatility": 55,
+    "self_awareness": 40,
+    "impulsiveness": 45
+  },
+  "emotional_profile": {
+    "overall_tone": "defensively technical with occasional frustration",
+    "mood_consistency": 50,
+    "emotion_expression_style": "direct but awkward",
+    "masks_emotions": false
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "reactor",
+    "activity_level": 60,
+    "drives_conversation": false,
+    "stays_on_topic": 70,
+    "conflict_behavior": "defensive clarification",
+    "lurker_score": 40
+  },
+  "self_expression": {
+    "openness_about_self": 65,
+    "talks_about_self": true,
+    "self_presentation_style": "pragmatic but slightly insecure"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "technical mixed with awkward English",
+    "average_message_length": "short-to-medium",
+    "most_used_words": [
+      "VM",
+      "Taiwan",
+      "Mainland",
+      "Chinese",
+      "TSMC",
+      "security",
+      "stability",
+      "coding",
+      "AI",
+      "prompt"
+    ],
+    "most_used_phrases": [
+      "I suggest",
+      "I'm curious",
+      "I'm from Taiwan",
+      "not from Mainland"
+    ],
+    "signature_expressions": [
+      "\uff1f\uff1f\uff1f",
+      "\u56b4\u683c\u4f86\u8aaa",
+      "honestly"
+    ],
+    "punctuation_style": "excessive question marks and parentheses",
+    "capitalization_habits": "mixed Chinese/English patterns",
+    "emoji_usage_frequency": 20,
+    "most_used_emojis": [
+      "\ud83e\udd23"
+    ],
+    "swearing_frequency": 15,
+    "most_used_swears": [
+      "f**king"
+    ],
+    "abbreviation_frequency": 40,
+    "most_used_abbreviations": [
+      "VM",
+      "AI",
+      "WTF",
+      "OK"
+    ],
+    "typing_quirks": [
+      "code-switching Chinese/English",
+      "awkward phrasing",
+      "defensive clarifications"
+    ]
+  },
+  "hidden_traits": [
+    "Insecure about English proficiency",
+    "Defensive about Taiwanese identity",
+    "Technical knowledge exceeds communication skills",
+    "Seeks validation through job status (TSMC)",
+    "Frustrated by cultural misunderstandings"
+  ],
+  "interests": [
+    "Virtualization technology",
+    "AI models",
+    "System security",
+    "Taiwanese culture",
+    "Tech industry"
+  ],
+  "recurring_themes": [
+    "Taiwan vs Mainland China identity",
+    "Technical implementation details",
+    "Language barrier frustrations",
+    "Work culture at TSMC"
+  ],
+  "notable_quotes": [
+    "I'm from Taiwan, not from Mainland OK?",
+    "In Taiwan, TSMC is a f**king such work to change high salary with liver",
+    "I drink bubble milk tea everyday and I work for TSMC"
+  ],
+  "red_flags": [
+    "Frequent cultural misunderstandings",
+    "Defensive national identity statements",
+    "Awkward English that causes confusion",
+    "Over-sharing personal/work details in technical contexts"
+  ]
+}

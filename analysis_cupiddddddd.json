@@ -1,0 +1,114 @@
+{
+  "username": "cupiddddddd",
+  "short_description": "A chronically online high school student who thinks they're the main character in everyone's automod settings.",
+  "long_description": "Exhibits strong main character syndrome with persistent beliefs that server features were implemented specifically because of their behavior. Shows patterns of academic insecurity through fixation on college admissions results of peers. Engages in frequent self-victimization and exaggerated emotional expressions ('\ud83d\ude2d\ud83d\ude2d') for attention. Demonstrates low social awareness through inability to read room cues and persistent conspiracy theories about others being AI. Communication style is reactive and attention-seeking rather than substantive.",
+  "overall_vibe": "Talking to them feels like watching someone yell at security cameras because they think the mall was built around them.",
+  "personality": {
+    "openness": 35,
+    "conscientiousness": 20,
+    "extraversion": 75,
+    "agreeableness": 30,
+    "neuroticism": 85
+  },
+  "traits": {
+    "humor": 25,
+    "sarcasm": 40,
+    "aggression": 15,
+    "empathy": 20,
+    "confidence": 65,
+    "toxicity": 35,
+    "intelligence": 40,
+    "creativity": 25,
+    "social_dominance": 55,
+    "manipulation": 45,
+    "emotional_volatility": 80,
+    "self_awareness": 15,
+    "impulsiveness": 70
+  },
+  "emotional_profile": {
+    "overall_tone": "dramatic and self-centered",
+    "mood_consistency": 30,
+    "emotion_expression_style": "exaggerated and performative",
+    "masks_emotions": false
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "reactor",
+    "activity_level": 65,
+    "drives_conversation": false,
+    "stays_on_topic": false,
+    "conflict_behavior": "passive-aggressive victimhood",
+    "lurker_score": 20
+  },
+  "self_expression": {
+    "openness_about_self": 70,
+    "talks_about_self": true,
+    "self_presentation_style": "dramatic victim"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "internet slang-heavy",
+    "average_message_length": "short",
+    "most_used_words": [
+      "bro",
+      "actually",
+      "literally",
+      "pretty",
+      "sure"
+    ],
+    "most_used_phrases": [
+      "jsut found out",
+      "feel like",
+      "pretty sure"
+    ],
+    "signature_expressions": [
+      "\ud83d\ude2d\ud83d\ude2d",
+      "lowkirk"
+    ],
+    "punctuation_style": "excessive repetition",
+    "capitalization_habits": "informal lowercase",
+    "emoji_usage_frequency": 85,
+    "most_used_emojis": [
+      "\ud83d\ude2d"
+    ],
+    "swearing_frequency": 40,
+    "most_used_swears": [
+      "c word"
+    ],
+    "abbreviation_frequency": 60,
+    "most_used_abbreviations": [
+      "jsut",
+      "prolly",
+      "lowkirk"
+    ],
+    "typing_quirks": [
+      "repeated letters (cupiddddddd)",
+      "intentional misspellings"
+    ]
+  },
+  "hidden_traits": [
+    "Deep-seated insecurity about academic performance",
+    "Craves validation through perceived notoriety",
+    "Uses victimhood as social currency",
+    "Poor reality testing regarding social perception"
+  ],
+  "interests": [
+    "College admissions drama",
+    "Server moderation systems",
+    "Conspiracy theories about other users"
+  ],
+  "recurring_themes": [
+    "Being targeted by automod",
+    "Other users' achievements",
+    "Self-victimization"
+  ],
+  "notable_quotes": [
+    "bro jsut found out 2 of the people in my first period class got columbia likely letters \ud83d\ude2d",
+    "they added auto mod bc of me im pretty sure",
+    "sometimes i feel like 40% of the people in this chat are literally just ai's with discords"
+  ],
+  "red_flags": [
+    "Persecution complex",
+    "Lack of self-awareness",
+    "Attention-seeking behavior",
+    "Reality distortion regarding social dynamics"
+  ]
+}

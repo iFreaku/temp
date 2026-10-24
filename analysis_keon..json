@@ -1,0 +1,130 @@
+{
+  "username": "keon.",
+  "short_description": "A chaotic meme lord who thrives on attention and shitposts while masking deep-seated loneliness with humor.",
+  "long_description": "Keon. presents as a highly active, attention-seeking individual who uses humor and meme culture as a primary coping mechanism. Their communication style is erratic, jumping between topics rapidly, often using self-deprecating jokes about being single or lacking social connections. They exhibit signs of loneliness ('abhi toh sab so gaye') and use hyperbolic language to exaggerate situations for comedic effect. There's a persistent pattern of seeking validation through interactions, often prompting others to engage with their posts.",
+  "overall_vibe": "Talking to keon. feels like being stuck in a meme tornado that occasionally reveals glimpses of genuine vulnerability.",
+  "personality": {
+    "openness": 85,
+    "conscientiousness": 25,
+    "extraversion": 90,
+    "agreeableness": 65,
+    "neuroticism": 70
+  },
+  "traits": {
+    "humor": 90,
+    "sarcasm": 80,
+    "aggression": 30,
+    "empathy": 60,
+    "confidence": 75,
+    "toxicity": 35,
+    "intelligence": 70,
+    "creativity": 85,
+    "social_dominance": 65,
+    "manipulation": 40,
+    "emotional_volatility": 75,
+    "self_awareness": 50,
+    "impulsiveness": 85
+  },
+  "emotional_profile": {
+    "overall_tone": "Chaotic humorous with underlying melancholy",
+    "mood_consistency": 40,
+    "emotion_expression_style": "Indirect through jokes and memes",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "Primarily initiator",
+    "activity_level": 90,
+    "drives_conversation": true,
+    "stays_on_topic": false,
+    "conflict_behavior": "Deflects with humor",
+    "lurker_score": 10
+  },
+  "self_expression": {
+    "openness_about_self": 70,
+    "talks_about_self": true,
+    "self_presentation_style": "Self-deprecating humorist"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "Internet slang mixed with Hindi-English code switching",
+    "average_message_length": "Short to medium",
+    "most_used_words": [
+      "hai",
+      "nahi",
+      "bhai",
+      "gaye",
+      "rahe",
+      "chal",
+      "hu",
+      "mast"
+    ],
+    "most_used_phrases": [
+      "kya kar rahe",
+      "aa rahe kab",
+      "aisa kya",
+      "gajab hai"
+    ],
+    "signature_expressions": [
+      "lmfao",
+      "huehuehue",
+      "arey bc",
+      "ameer ho gaye bc"
+    ],
+    "punctuation_style": "Minimal, often omitting proper punctuation",
+    "capitalization_habits": "Mostly lowercase with occasional proper nouns",
+    "emoji_usage_frequency": 60,
+    "most_used_emojis": [
+      "\ud83d\ude1e",
+      "\u270c\ufe0f",
+      "\ud83d\udc94"
+    ],
+    "swearing_frequency": 65,
+    "most_used_swears": [
+      "bc",
+      "bhai",
+      "launde"
+    ],
+    "abbreviation_frequency": 75,
+    "most_used_abbreviations": [
+      "dc",
+      "pc",
+      "msg",
+      "idk",
+      "fr"
+    ],
+    "typing_quirks": [
+      "repetitive phrases",
+      "rapid topic changes",
+      "frequent use of 'huehuehue'"
+    ]
+  },
+  "hidden_traits": [
+    "Uses humor to mask loneliness",
+    "Seeks validation through online interactions",
+    "Has difficulty with emotional authenticity",
+    "Uses meme culture as emotional shield"
+  ],
+  "interests": [
+    "Meme culture",
+    "Online gaming",
+    "Social media",
+    "Internet humor"
+  ],
+  "recurring_themes": [
+    "Being single/lacking relationships",
+    "Late-night activity",
+    "Seeking attention/validation",
+    "Financial exaggeration"
+  ],
+  "notable_quotes": [
+    "arey meri koi gf nahi hai",
+    "abhi toh sab so gaye",
+    "ameer ho gaye bc",
+    "vita khel raha tha"
+  ],
+  "red_flags": [
+    "Emotional masking through humor",
+    "Inconsistent sleep patterns",
+    "Potential validation-seeking behavior",
+    "Difficulty maintaining serious conversations"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "username": "1nonlynini",
+  "short_description": "A chaotic attention-seeker who oscillates between academic panic and hypersexual trolling while drowning in self-pity emojis.",
+  "long_description": "1nonlynini exhibits a fragmented communication style characterized by rapid mood swings between academic distress, sexual provocation, and desperate bids for attention. Their emotional expression is highly volatile, often using exaggerated emojis (\ud83d\ude2d, \ud83d\udc94) to amplify minor frustrations. They demonstrate low frustration tolerance, particularly around academic pressure, while simultaneously engaging in sexually charged banter that suggests either performance anxiety or deep-seated insecurity. The constant switching between Hindi and English, combined with erratic topic changes, indicates poor emotional regulation and possible attention-seeking behaviors. Their interactions are primarily reactive rather than initiatory, often responding to others' provocations with escalating intensity.",
+  "overall_vibe": "Talking to them feels like being trapped in a hyperactive teenager's mood swing simulator with occasional flashes of academic desperation.",
+  "personality": {
+    "openness": 75,
+    "conscientiousness": 20,
+    "extraversion": 85,
+    "agreeableness": 30,
+    "neuroticism": 90
+  },
+  "traits": {
+    "humor": 40,
+    "sarcasm": 60,
+    "aggression": 70,
+    "empathy": 25,
+    "confidence": 35,
+    "toxicity": 65,
+    "intelligence": 50,
+    "creativity": 45,
+    "social_dominance": 30,
+    "manipulation": 55,
+    "emotional_volatility": 90,
+    "self_awareness": 20,
+    "impulsiveness": 85
+  },
+  "emotional_profile": {
+    "overall_tone": "Chaotically negative with bursts of performative positivity",
+    "mood_consistency": 15,
+    "emotion_expression_style": "Exaggerated and attention-seeking",
+    "masks_emotions": false
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "Reactor",
+    "activity_level": 80,
+    "drives_conversation": false,
+    "stays_on_topic": 10,
+    "conflict_behavior": "Escalates then plays victim",
+    "lurker_score": 5
+  },
+  "self_expression": {
+    "openness_about_self": 70,
+    "talks_about_self": true,
+    "self_presentation_style": "Victimized attention-seeker"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "Casual with academic and sexual slang mixing",
+    "average_message_length": "Short to very short",
+    "most_used_words": [
+      "maakichut",
+      "lawde",
+      "gand",
+      "bhai",
+      "phy",
+      "chem",
+      "maths",
+      "boards",
+      "help",
+      "nigga"
+    ],
+    "most_used_phrases": [
+      "mere aise hi",
+      "kya karu",
+      "samjh nai arha",
+      "ma chud thi",
+      "wtf"
+    ],
+    "signature_expressions": [
+      "\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+      "\ud83d\udc94\ud83d\udc94\ud83d\udc94",
+      "maakichut",
+      "gand faad diya"
+    ],
+    "punctuation_style": "Excessive emoji spam with minimal punctuation",
+    "capitalization_habits": "Mostly lowercase with occasional ALLCAPS for emphasis",
+    "emoji_usage_frequency": 95,
+    "most_used_emojis": [
+      "\ud83d\ude2d",
+      "\ud83d\udc94",
+      "\ud83d\udd95",
+      "\ud83d\ude39",
+      "\u270c\ufe0f"
+    ],
+    "swearing_frequency": 85,
+    "most_used_swears": [
+      "maakichut",
+      "bhenchod",
+      "madarchod",
+      "gand",
+      "lawde"
+    ],
+    "abbreviation_frequency": 60,
+    "most_used_abbreviations": [
+      "wtf",
+      "idk",
+      "hru",
+      "gm",
+      "gn"
+    ],
+    "typing_quirks": [
+      "Random Hindi-English code switching",
+      "Emoji spamming",
+      "Incomplete sentences"
+    ]
+  },
+  "hidden_traits": [
+    "Uses sexual aggression to mask academic insecurity",
+    "Seeks validation through conflict",
+    "Performs victimhood for attention",
+    "Low emotional regulation capacity",
+    "Academic anxiety manifests as destructive behavior"
+  ],
+  "interests": [
+    "Academic drama",
+    "Sexual provocation",
+    "Discord bot commands",
+    "Attention-seeking",
+    "Board exam stress"
+  ],
+  "recurring_themes": [
+    "Academic failure anxiety",
+    "Sexual tension",
+    "Victim mentality",
+    "Attention-seeking behavior",
+    "Language mixing"
+  ],
+  "notable_quotes": [
+    "MUJHE KUCH TOOFANI KRNA HAI",
+    "meri maa chudegu pls",
+    "samjh jhat kuch nai arha",
+    "I NEED MY PARAGRAPHS",
+    "nigga bolne pe log cancel krte"
+  ],
+  "red_flags": [
+    "Extreme emotional volatility",
+    "Academic despair expressions",
+    "Hypersexualized aggression",
+    "Attention-seeking through conflict",
+    "Poor emotional regulation"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "username": "jasnsy",
+  "short_description": "A tech-savvy shitposter who thinks he's smarter than everyone while dropping casual bombs in Discord chats.",
+  "long_description": "Jasnsy presents as a confident, tech-oriented individual who engages primarily through provocative statements, sarcastic observations, and rapid-fire reactions. He demonstrates above-average technical awareness but uses it primarily to challenge others rather than constructively contribute. His communication style is abrupt, judgmental, and often dismissive, masking what appears to be underlying insecurity through performative intelligence. He thrives on creating tension and calling out perceived inconsistencies, positioning himself as the logical voice in chaotic conversations while actually adding to the chaos.",
+  "overall_vibe": "Like arguing with a know-it-all cousin who just discovered programming memes",
+  "personality": {
+    "openness": 70,
+    "conscientiousness": 40,
+    "extraversion": 85,
+    "agreeableness": 25,
+    "neuroticism": 60
+  },
+  "traits": {
+    "humor": 75,
+    "sarcasm": 90,
+    "aggression": 65,
+    "empathy": 20,
+    "confidence": 85,
+    "toxicity": 55,
+    "intelligence": 70,
+    "creativity": 60,
+    "social_dominance": 80,
+    "manipulation": 65,
+    "emotional_volatility": 50,
+    "self_awareness": 30,
+    "impulsiveness": 75
+  },
+  "emotional_profile": {
+    "overall_tone": "Challenging and dismissive",
+    "mood_consistency": 40,
+    "emotion_expression_style": "Direct and unfiltered",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "Reactor",
+    "activity_level": 80,
+    "drives_conversation": false,
+    "stays_on_topic": false,
+    "conflict_behavior": "Provocative engagement",
+    "lurker_score": 20
+  },
+  "self_expression": {
+    "openness_about_self": 40,
+    "talks_about_self": true,
+    "self_presentation_style": "Performative intelligence"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "Tech-slang hybrid",
+    "average_message_length": "Short",
+    "most_used_words": [
+      "shit",
+      "math",
+      "built",
+      "prompt",
+      "cracked",
+      "tokens",
+      "bro",
+      "lol"
+    ],
+    "most_used_phrases": [
+      "The math is not mathin",
+      "No cap",
+      "I built"
+    ],
+    "signature_expressions": [
+      "math is not mathin",
+      "no cap"
+    ],
+    "punctuation_style": "Minimal",
+    "capitalization_habits": "Lowercase dominant",
+    "emoji_usage_frequency": 30,
+    "most_used_emojis": [
+      "<a:Think_3D:690298657190313985>"
+    ],
+    "swearing_frequency": 65,
+    "most_used_swears": [
+      "shit"
+    ],
+    "abbreviation_frequency": 70,
+    "most_used_abbreviations": [
+      "lol",
+      "btw",
+      "fr",
+      "ESL",
+      "CBC"
+    ],
+    "typing_quirks": [
+      "dropping gifs/links as responses",
+      "abrupt topic shifts"
+    ]
+  },
+  "hidden_traits": [
+    "Uses technical knowledge as social weaponry",
+    "Masking insecurity with arrogance",
+    "Seeks validation through confrontation",
+    "Performs intelligence rather than demonstrates it"
+  ],
+  "interests": [
+    "Programming",
+    "AI technology",
+    "Tech culture",
+    "Online banter"
+  ],
+  "recurring_themes": [
+    "Challenging others' technical claims",
+    "Quick dismissive judgments",
+    "Self-promotion of coding abilities"
+  ],
+  "notable_quotes": [
+    "I built an entire code editor with one prompt",
+    "The math is not mathin",
+    "I could tell you were selling a clipboard from 2 seconds on your website"
+  ],
+  "red_flags": [
+    "Dismissive of others' work",
+    "Quick to judge without context",
+    "Uses technical knowledge to belittle",
+    "Inconsistent logical reasoning"
+  ]
+}

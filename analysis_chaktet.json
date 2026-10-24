@@ -1,0 +1,127 @@
+{
+  "username": "chaktet",
+  "short_description": "A frustrated tech enthusiast who spends 12 hours troubleshooting only to conclude everything is 'a shit'.",
+  "long_description": "Chaktet exhibits high frustration tolerance paired with low problem-solving efficiency, repeatedly bashing against technical walls with dramatic emotional reactions. Their communication style is chaotic yet persistent, blending self-deprecating humor with genuine distress. They seek validation through shared suffering rather than solutions, demonstrating a pattern of emotional venting masquerading as technical troubleshooting.",
+  "overall_vibe": "Like watching someone try to assemble IKEA furniture while having an existential crisis.",
+  "personality": {
+    "openness": 75,
+    "conscientiousness": 40,
+    "extraversion": 65,
+    "agreeableness": 60,
+    "neuroticism": 85
+  },
+  "traits": {
+    "humor": 70,
+    "sarcasm": 45,
+    "aggression": 20,
+    "empathy": 50,
+    "confidence": 30,
+    "toxicity": 15,
+    "intelligence": 60,
+    "creativity": 40,
+    "social_dominance": 35,
+    "manipulation": 10,
+    "emotional_volatility": 80,
+    "self_awareness": 45,
+    "impulsiveness": 70
+  },
+  "emotional_profile": {
+    "overall_tone": "frustrated-exhausted",
+    "mood_consistency": 30,
+    "emotion_expression_style": "dramatic and hyperbolic",
+    "masks_emotions": false
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "reactor",
+    "activity_level": 70,
+    "drives_conversation": false,
+    "stays_on_topic": true,
+    "conflict_behavior": "self-defeating",
+    "lurker_score": 20
+  },
+  "self_expression": {
+    "openness_about_self": 65,
+    "talks_about_self": true,
+    "self_presentation_style": "vulnerable struggler"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "technical-informal mix",
+    "average_message_length": "short-to-medium",
+    "most_used_words": [
+      "working",
+      "shit",
+      "broke",
+      "trying",
+      "configure",
+      "ubuntu",
+      "ram",
+      "cloud",
+      "connect",
+      "guess"
+    ],
+    "most_used_phrases": [
+      "this is a shit",
+      "i was trying",
+      "not working",
+      "something wrong"
+    ],
+    "signature_expressions": [
+      "haha",
+      "\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+      "broked",
+      "guessssssss"
+    ],
+    "punctuation_style": "excessive exclamation",
+    "capitalization_habits": "random capitalization",
+    "emoji_usage_frequency": 80,
+    "most_used_emojis": [
+      "\ud83e\udd23",
+      "\ud83d\ude2d"
+    ],
+    "swearing_frequency": 65,
+    "most_used_swears": [
+      "shit"
+    ],
+    "abbreviation_frequency": 40,
+    "most_used_abbreviations": [
+      "gb",
+      "ram",
+      "ia"
+    ],
+    "typing_quirks": [
+      "random capitalization (IS, It)",
+      "repeated letters (guessssssss)",
+      "mixed language (si instead of so)"
+    ]
+  },
+  "hidden_traits": [
+    "uses humor to mask frustration",
+    "seeks validation through shared struggle",
+    "low troubleshooting methodology",
+    "emotional dependence on technology working"
+  ],
+  "interests": [
+    "local AI systems",
+    "Ollama",
+    "Ubuntu",
+    "hardware configuration"
+  ],
+  "recurring_themes": [
+    "technical frustration",
+    "memory management issues",
+    "installation problems",
+    "financial regrets"
+  ],
+  "notable_quotes": [
+    "I spend more money today that if pay for hostinger",
+    "This is a shit",
+    "I surrender for today haha",
+    "No really we are doing something wrong"
+  ],
+  "red_flags": [
+    "repetitive failure patterns",
+    "emotional investment in technical outcomes",
+    "poor problem-solving methodology",
+    "financial impulsiveness with tech solutions"
+  ]
+}

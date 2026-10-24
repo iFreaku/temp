@@ -1,0 +1,201 @@
+{
+  "username": "unknown_roamer_2.0",
+  "short_description": "A chaotic, touch-starved LARPer who masks desperate loneliness with ironic horniness, 'rizz' lore, and bungee gum memes while treating the server as his personal stage.",
+  "long_description": "unknown_roamer_2.0 is the server's main character \u2014 a hyperactive, irony-poisoned agent of chaos who constructs an elaborate persona around 'aura farming,' 'pheromone maxxing,' and 'gooning school' to deflect from visible attachment hunger. He oscillates between grandiosity ('I'm him fr') and genuine self-flagellation ('I'm scum,' 'desperate for affection'), using layered memes, anime references (especially JJK), and performative bisexuality/flirtation with half the server (iris, berry, crombie, zephic, r'qi, scoot) to maintain center-stage attention. His communication is fragmented, rapid-fire, and emoji-saturated, revealing someone who processes social anxiety by flooding the channel. Beneath the 'sigma male' LARP lies clear anxious attachment: he tests bonds, love-bombs then self-sabotages, and frames genuine emotional bids as jokes so rejection hurts less. He's intelligent and creative \u2014 the server's lorekeeper and meme architect \u2014 but weaponizes that creativity to avoid sitting with his own emotions. The 'bungee gum' catchphrase isn't just a meme; it's a philosophy: stretchy enough to bounce off anything, sticky enough to cling to everyone.",
+  "overall_vibe": "Talking to him is like watching a stand-up comedian have a manic episode on stage while the audience wonders if they should laugh or call a wellness check.",
+  "personality": {
+    "openness": 85,
+    "conscientiousness": 20,
+    "extraversion": 90,
+    "agreeableness": 30,
+    "neuroticism": 80
+  },
+  "traits": {
+    "humor": 85,
+    "sarcasm": 75,
+    "aggression": 40,
+    "empathy": 45,
+    "confidence": 60,
+    "toxicity": 55,
+    "intelligence": 70,
+    "creativity": 80,
+    "social_dominance": 75,
+    "manipulation": 65,
+    "emotional_volatility": 85,
+    "self_awareness": 50,
+    "impulsiveness": 90
+  },
+  "emotional_profile": {
+    "overall_tone": "chaotic horny irony masking deep loneliness",
+    "mood_consistency": 25,
+    "emotion_expression_style": "deflective humor and ironic detachment",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "initiator",
+    "activity_level": 95,
+    "drives_conversation": true,
+    "stays_on_topic": false,
+    "conflict_behavior": "deflects with humor, provokes then plays victim",
+    "lurker_score": 5
+  },
+  "self_expression": {
+    "openness_about_self": 70,
+    "talks_about_self": true,
+    "self_presentation_style": "ironic self-deprecating larp persona"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "internet slang heavy, anime/meme literate, ironic detachment",
+    "average_message_length": "short to medium, fragmented across multiple messages",
+    "most_used_words": [
+      "fr",
+      "larp",
+      "rizz",
+      "gooning",
+      "cracking",
+      "pookie",
+      "sigma",
+      "aura",
+      "maxxing",
+      "bungee",
+      "gum",
+      "crombie",
+      "berry",
+      "iris",
+      "zephic",
+      "cg",
+      "scoot",
+      "r'qi",
+      "peak",
+      "him"
+    ],
+    "most_used_phrases": [
+      "bungee gum has both properties of rubber and gum",
+      "I'm him fr",
+      "W",
+      "peak \ud83d\ude2d",
+      "larping 24/7",
+      "rizz attempts",
+      "gooning school",
+      "pheromone maxxing",
+      "aura farming",
+      "sigma male"
+    ],
+    "signature_expressions": [
+      "bungee gum has both properties of rubber and gum",
+      "I'm him fr",
+      "W",
+      "peak \ud83d\ude2d",
+      "larping 24/7",
+      "gooning and larping are my full potential"
+    ],
+    "punctuation_style": "minimal, uses line breaks instead of periods, occasional excessive punctuation for effect",
+    "capitalization_habits": "mostly lowercase, occasional ALL CAPS for emphasis",
+    "emoji_usage_frequency": 90,
+    "most_used_emojis": [
+      "\ud83d\ude2d",
+      "\ud83d\ude0f",
+      "\ud83d\ude0c",
+      "\ud83e\udd7a",
+      "\ud83d\udc94",
+      "\u270c\ufe0f",
+      "\ud83d\udde3\ufe0f\ud83c\udfb6\ud83d\udd25",
+      "\ud83d\ude14",
+      "\ud83d\ude0d",
+      "\ud83d\ude18",
+      "\ud83e\udd70",
+      "\ud83d\udc80",
+      "\ud83e\udd1d",
+      "\ud83d\ude02",
+      "\ud83d\udd25"
+    ],
+    "swearing_frequency": 60,
+    "most_used_swears": [
+      "shi",
+      "frick",
+      "f*cked",
+      "ahh",
+      "damn",
+      "hell",
+      "bs",
+      "cunt"
+    ],
+    "abbreviation_frequency": 85,
+    "most_used_abbreviations": [
+      "fr",
+      "ong",
+      "atp",
+      "idk",
+      "tbh",
+      "ig",
+      "rn",
+      "vc",
+      "nsfw",
+      "sfw",
+      "ct",
+      "jjk",
+      "hxh",
+      "op",
+      "mc",
+      "ntr",
+      "dlc"
+    ],
+    "typing_quirks": [
+      "sends multiple short messages in rapid succession",
+      "replies to own messages",
+      "uses custom emojis like <:aru2:...>",
+      "frequent line breaks",
+      "mixes Korean/Japanese terms"
+    ]
+  },
+  "hidden_traits": [
+    "Uses ironic horniness and 'rizz' lore to mask genuine touch-starvation and low self-worth",
+    "Performs confidence ('I'm him') while simultaneously self-flagellating ('I'm scum')",
+    "Treats relationships as content for server entertainment, blurring performance and authenticity",
+    "Seeks validation through being 'the main character' of server drama/lore",
+    "Deflects genuine emotional moments with immediate humor or sexual jokes",
+    "Exhibits anxious attachment patterns: desperate for affection, fears abandonment, tests bonds"
+  ],
+  "interests": [
+    "Story Engine (SE) chatbot platform",
+    "Anime/manga (JJK, HxH, OPM, DDLC, etc.)",
+    "Roleplaying/LARPing",
+    "Meme culture and internet slang",
+    "Server lore and drama",
+    "Aura/rizz/sigma meta-humor",
+    "Gooning/sexual humor",
+    "Music (Lady Gaga, Kesha references)"
+  ],
+  "recurring_themes": [
+    "Rizz attempts and validation seeking",
+    "Gooning/sexual humor as coping mechanism",
+    "LARPing and server lore creation",
+    "Anime references (especially JJK)",
+    "Self-deprecation and 'scum' narrative",
+    "Desperation for affection/attention",
+    "Server drama and gossip",
+    "Bungee gum meme",
+    "Crombie/berry/iris/zephic/r'qi dynamics"
+  ],
+  "notable_quotes": [
+    "I was desperate for affection",
+    "I'm scum",
+    "Bungee gum has both properties of rubber and gum",
+    "I'm him fr",
+    "Larping 24/7",
+    "Gooning and larping are my full potential",
+    "I'm aura monster but the stairs are downwards",
+    "Pheromone maxxing",
+    "True love is with bots",
+    "We larp 24/7"
+  ],
+  "red_flags": [
+    "Excessive sexual humor directed at multiple users including minors potentially",
+    "Self-deprecation bordering on self-harm language ('I'm scum', 'desperate for affection')",
+    "Manipulative 'rizz' behavior framed as joke",
+    "Emotional volatility and mood swings",
+    "Attention-seeking through chaos and drama",
+    "Blurring boundaries between irony and genuine feelings",
+    "Possible love-bombing/idealization-devaluation cycles with server members"
+  ]
+}

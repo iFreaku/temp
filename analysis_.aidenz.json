@@ -1,0 +1,106 @@
+{
+  "username": ".aidenz",
+  "short_description": "A ghost who occasionally possesses the keyboard to state the obvious in Hinglish, then vanishes back into the void.",
+  "long_description": "This is someone who treats Discord like a wildlife camera\u2014observing from a distance and only chiming in to confirm the chat is 'zinda' (alive). Their communication style is what happens when you compress human interaction into its most minimal viable product: three words, two emojis, zero substance. They speak in Hinglish not out of cultural flair, but because full sentences require effort they're clearly not willing to expend. The custom emojis suggest they're fluent in Discord culture but emotionally illiterate in actual conversation. They're not a lurker; they're a lurker's lurker\u2014a meta-lurker who has transcended mere observation into the art of barely-existing. Every 'ye gc zinda h' is less a contribution and more a welfare check on their own social life, which apparently only sparks to life when someone else says something first. The 'wow' is the cherry on top\u2014pure reaction, zero initiation, maximum ambiguity. This is someone who wants credit for participation without the risk of actual participation.",
+  "overall_vibe": "Talking to them is like texting someone who replies with 'k' but in three different languages and two emojis.",
+  "personality": {
+    "openness": 40,
+    "conscientiousness": 25,
+    "extraversion": 30,
+    "agreeableness": 45,
+    "neuroticism": 45
+  },
+  "traits": {
+    "humor": 25,
+    "sarcasm": 15,
+    "aggression": 0,
+    "empathy": 15,
+    "confidence": 35,
+    "toxicity": 0,
+    "intelligence": 40,
+    "creativity": 30,
+    "social_dominance": 10,
+    "manipulation": 0,
+    "emotional_volatility": 25,
+    "self_awareness": 35,
+    "impulsiveness": 45
+  },
+  "emotional_profile": {
+    "overall_tone": "Mildly surprised, detached observation",
+    "mood_consistency": 60,
+    "emotion_expression_style": "Sparse, emoji-coded reactions",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "Pure reactor",
+    "activity_level": 20,
+    "drives_conversation": false,
+    "stays_on_topic": true,
+    "conflict_behavior": "Avoidant",
+    "lurker_score": 75
+  },
+  "self_expression": {
+    "openness_about_self": 5,
+    "talks_about_self": false,
+    "self_presentation_style": "Minimalist enigma who communicates in cryptic Hinglish and custom emojis"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "Hinglish minimalist with heavy emoji dependency",
+    "average_message_length": "Very short (1-3 words)",
+    "most_used_words": [
+      "zinda",
+      "wow",
+      "soja",
+      "behen",
+      "gc"
+    ],
+    "most_used_phrases": [
+      "ye gc zinda h",
+      "soja behen"
+    ],
+    "signature_expressions": [
+      "ye gc zinda h"
+    ],
+    "punctuation_style": "Minimal, no punctuation in text messages",
+    "capitalization_habits": "All lowercase",
+    "emoji_usage_frequency": 70,
+    "most_used_emojis": [
+      "<:aisa_kya:884066276538994728>"
+    ],
+    "swearing_frequency": 0,
+    "most_used_swears": [],
+    "abbreviation_frequency": 0,
+    "most_used_abbreviations": [],
+    "typing_quirks": [
+      "All lowercase",
+      "Hinglish code-mixing",
+      "Custom emoji integration",
+      "No punctuation"
+    ]
+  },
+  "hidden_traits": [
+    "Uses brief check-ins as low-risk social participation to maintain presence without vulnerability",
+    "Emoji usage suggests desire for emotional expression but limited verbal articulation skills",
+    "Hinglish pattern indicates cultural comfort but possible language confidence issues in full English contexts",
+    "Reactive nature masks potential social anxiety or profound disinterest",
+    "Group chat liveness checks reveal dependency on external stimulation for social engagement"
+  ],
+  "interests": [
+    "Group chat dynamics",
+    "Discord status monitoring"
+  ],
+  "recurring_themes": [
+    "Group chat activity/liveness",
+    "Minimal engagement",
+    "Observational commentary"
+  ],
+  "notable_quotes": [
+    "ye gc zinda h",
+    "wow"
+  ],
+  "red_flags": [
+    "Extremely low engagement may indicate disinterest or passive-aggressive lurking",
+    "Zero personal disclosure suggests trust issues or emotional unavailability",
+    "Pattern of only reacting creates one-sided relationship dynamics"
+  ]
+}

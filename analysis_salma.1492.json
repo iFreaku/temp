@@ -1,0 +1,110 @@
+{
+  "username": "salma.1492",
+  "short_description": "A technically-focused problem solver who communicates with blunt efficiency and prefers clean-slate approaches.",
+  "long_description": "Salma presents as a technically competent individual who operates with systematic precision and minimal emotional expression. Their communication is purely functional, focused on diagnosing technical issues and proposing direct solutions. They exhibit a preference for decisive action ('start from scratch', 'fresh install') rather than iterative troubleshooting, suggesting an all-or-nothing approach to problem-solving. The complete absence of social pleasantries or emotional language indicates a highly task-oriented personality that values efficiency over social connection. They demonstrate technical literacy through command-line operations and system diagnostics, but their communication style is starkly utilitarian without any personal flair.",
+  "overall_vibe": "Interacting with salma feels like receiving a technical status report from an efficient but emotionally detached system administrator.",
+  "personality": {
+    "openness": 40,
+    "conscientiousness": 85,
+    "extraversion": 5,
+    "agreeableness": 20,
+    "neuroticism": 15
+  },
+  "traits": {
+    "humor": 0,
+    "sarcasm": 0,
+    "aggression": 0,
+    "empathy": 0,
+    "confidence": 75,
+    "toxicity": 0,
+    "intelligence": 80,
+    "creativity": 25,
+    "social_dominance": 30,
+    "manipulation": 0,
+    "emotional_volatility": 5,
+    "self_awareness": 20,
+    "impulsiveness": 10
+  },
+  "emotional_profile": {
+    "overall_tone": "neutral technical",
+    "mood_consistency": 95,
+    "emotion_expression_style": "suppressed",
+    "masks_emotions": true
+  },
+  "behavioral_patterns": {
+    "initiator_vs_reactor": "initiator",
+    "activity_level": 60,
+    "drives_conversation": true,
+    "stays_on_topic": true,
+    "conflict_behavior": "technical problem-solving",
+    "lurker_score": 20
+  },
+  "self_expression": {
+    "openness_about_self": 0,
+    "talks_about_self": false,
+    "self_presentation_style": "technical professional"
+  },
+  "language_fingerprint": {
+    "vocabulary_style": "technical jargon",
+    "average_message_length": "short to medium",
+    "most_used_words": [
+      "error",
+      "warn",
+      "agent",
+      "embedded",
+      "model",
+      "context",
+      "window",
+      "small",
+      "scratch",
+      "install"
+    ],
+    "most_used_phrases": [
+      "start from scratch",
+      "fresh install",
+      "context window too small"
+    ],
+    "signature_expressions": [
+      "thoughts?",
+      "done"
+    ],
+    "punctuation_style": "technical precision",
+    "capitalization_habits": "lowercase technical terms",
+    "emoji_usage_frequency": 0,
+    "most_used_emojis": [],
+    "swearing_frequency": 0,
+    "most_used_swears": [],
+    "abbreviation_frequency": 40,
+    "most_used_abbreviations": [
+      "llm"
+    ],
+    "typing_quirks": [
+      "technical timestamp formatting",
+      "command-line output sharing"
+    ]
+  },
+  "hidden_traits": [
+    "Prefers complete system control over incremental fixes",
+    "May struggle with collaborative problem-solving approaches",
+    "Emotional detachment masks potential frustration with technical limitations"
+  ],
+  "interests": [
+    "AI systems",
+    "technical troubleshooting",
+    "system administration"
+  ],
+  "recurring_themes": [
+    "technical errors",
+    "system configuration",
+    "fresh installations"
+  ],
+  "notable_quotes": [
+    "i think i should just do a snapshot restore and start from scratch",
+    "lets do a fresh install from scratch to rule it out"
+  ],
+  "red_flags": [
+    "Extreme emotional detachment",
+    "Prefers nuclear options over nuanced solutions",
+    "No demonstrated social connection skills"
+  ]
+}
